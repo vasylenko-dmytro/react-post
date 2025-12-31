@@ -1,4 +1,4 @@
-import brandIcon from "../../public/src/assets/logo_75.ico";
+import brandIcon from "../../../assets/logo_75.ico";
 function Header() {
 
     return (
