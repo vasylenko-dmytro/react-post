@@ -1,5 +1,5 @@
-import { Header, Footer, ProductsGrid } from '../features/product/index';
-import HomePage from "../pages/Home/HomePage";
+import { Header, Footer } from '../features/product/index';
+import HomePage from '../pages/Home/HomePage';
 
 function App() {
 
@@ -7,7 +7,6 @@ function App() {
     <div className="min-h-screen flex flex-col">
       <Header/>
       <main className="flex-1">
-        {/*<ProductsGrid />*/}
         <HomePage />
       </main>
       <Footer/>
