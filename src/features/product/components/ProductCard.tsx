@@ -7,7 +7,7 @@ export default function ProductGrid({ product }: { product: Product }) {
   return (
     <div className="group flex flex-col">
       <div className="relative">
-        <div className="aspect-square bg-gray-100 overflow-hidden">
+        <div className="aspect-square bg-gray-300 rounded-xl overflow-hidden">
           <img
             className="w-full h-full object-contain p-4"
             src={product.imageUrlSmall}
@@ -33,7 +33,7 @@ export default function ProductGrid({ product }: { product: Product }) {
         {/* List */}
         <div className="flex flex-col">
           {/* Item */}
-          <div className="py-3 border-t border-gray-200 dark:border-neutral-700">
+          <div className="py-3 border-t border-gray-300 dark:border-neutral-900">
             <div className="grid grid-cols-2 gap-2">
               <div>
                 <span className="font-medium text-black dark:text-white">Denomination:</span>
@@ -47,7 +47,7 @@ export default function ProductGrid({ product }: { product: Product }) {
           {/* End Item */}
 
           {/* Item */}
-          <div className="py-3 border-t border-gray-200 dark:border-neutral-700">
+          <div className="py-3 border-t border-gray-300 dark:border-neutral-900">
             <div className="grid grid-cols-2 gap-2">
               <div>
                 <span className="font-medium text-black dark:text-white">SKU:</span>
@@ -61,7 +61,7 @@ export default function ProductGrid({ product }: { product: Product }) {
           {/* End Item */}
 
           {/* Item */}
-          <div className="py-3 border-t border-gray-200 dark:border-neutral-700">
+          <div className="py-3 border-t border-gray-300 dark:border-neutral-900">
             <div className="grid grid-cols-2 gap-2">
               <div>
                 <span className="font-medium text-black dark:text-white">Year:</span>

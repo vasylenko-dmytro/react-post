@@ -5,7 +5,7 @@ export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <header className="sticky top-4 inset-x-0 before:absolute before:inset-0 before:max-w-5xl before:mx-2 lg:before:mx-auto before:rounded-4xl before:border before:border-gray-200 dark:border-neutral-700 after:absolute after:inset-0 after:-z-1 after:max-w-5xl after:mx-2 lg:after:mx-auto after:rounded-4xl after:bg-white dark:after:bg-neutral-900 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full">
+    <header className="sticky top-4 inset-x-0 before:absolute before:inset-0 before:max-w-5xl before:mx-2 lg:before:mx-auto before:rounded-4xl before:border before:border-gray-200 dark:border-neutral-900 after:absolute after:inset-0 after:-z-1 after:max-w-5xl after:mx-2 lg:after:mx-auto after:rounded-4xl after:bg-gray-300 dark:after:bg-neutral-900 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full">
       <nav className="relative max-w-5xl w-full md:flex md:items-center md:justify-between md:gap-3 ps-5 pe-2 mx-2 lg:mx-auto py-2 dark:bg-neutral-900 rounded-4xl">
 
         <div className="flex items-center justify-between">
