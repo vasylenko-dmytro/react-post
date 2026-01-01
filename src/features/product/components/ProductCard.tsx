@@ -85,7 +85,6 @@ export default function ProductGrid({ product }: { product: Product }) {
           <sup className="ms-0.5 text-xs bg-blue-700 text-white py-0.5 px-1 rounded-lg">TBD</sup>
         </a>
       </div>
-
     </div>
   );
 }

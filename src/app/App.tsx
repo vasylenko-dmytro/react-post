@@ -1,4 +1,4 @@
-import { Header, Footer } from '../features/product/index';
+import {Header, Footer} from '../features/product/index';
 import HomePage from '../pages/Home/HomePage';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="min-h-screen flex flex-col bg-gray-100 dark:bg-neutral-700">
       <Header/>
       <main className="flex-1">
-        <HomePage />
+        <HomePage/>
       </main>
       <Footer/>
     </div>
