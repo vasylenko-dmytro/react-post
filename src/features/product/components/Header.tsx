@@ -1,9 +1,24 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import brandIcon from '../../../assets/logo_75.ico';
 
-export default function Header() {
+export default function Header({ onSearch }: { onSearch: (term: string) => void }) {
   const [isOpen, setIsOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
+  const [searchValue, setSearchValue] = useState("");
+
+  const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const value = e.target.value;
+    setSearchValue(value);
+    onSearch(value);
+  };
+
+  const toggleSearch = () => {
+    if (isSearchOpen) {
+      setSearchValue("");
+      onSearch("");
+    }
+    setIsSearchOpen(!isSearchOpen);
+  };
 
   return (
     <header className="sticky top-4 inset-x-0 before:absolute before:inset-0 before:max-w-5xl before:mx-2 lg:before:mx-auto before:rounded-4xl before:border before:border-gray-200 dark:before:border-neutral-700 after:absolute after:inset-0 after:-z-1 after:max-w-5xl after:mx-2 lg:after:mx-auto after:rounded-4xl after:bg-white dark:after:bg-neutral-900 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full">
@@ -97,6 +112,8 @@ export default function Header() {
                   </div>
                   <input
                     type="search"
+                    value={searchValue}
+                    onChange={handleSearch}
                     className="block w-full p-2 ps-10 text-sm text-gray-900 bg-gray-50 rounded-xl border-none focus:ring-2 focus:ring-blue-500 dark:bg-neutral-800 dark:text-white dark:placeholder-neutral-500"
                     placeholder="Search stamps, series, or years..."
                     autoFocus
@@ -104,7 +121,7 @@ export default function Header() {
                 </div>
                 <button
                   type="button"
-                  onClick={() => setIsSearchOpen(false)}
+                  onClick={toggleSearch}
                   className="ms-2 text-sm font-medium text-gray-500 hover:text-gray-700 dark:text-neutral-400 dark:hover:text-white px-2"
                 >
                   Cancel
