@@ -35,11 +35,13 @@ export default function ProductCheckout({ product }: { product: Product }) {
         </div>
 
         <div className="flex flex-col gap-3">
-          <button className="w-full bg-green-700 hover:bg-green-800 text-white font-bold py-4 rounded-xl transition-all flex items-center justify-center gap-2 shadow-md">
+          <button className="w-full bg-green-700 hover:bg-green-800 text-white font-bold py-4 rounded-xl transition-all items-center justify-center gap-2 shadow-md">
             Add to Collection
+            <sup className="ms-0.5 text-xs bg-blue-700 text-white py-0.5 px-1 rounded-lg">TBD</sup>
           </button>
           <button className="w-full bg-white dark:bg-neutral-700 border border-gray-300 dark:border-neutral-600 text-gray-700 dark:text-neutral-200 py-3 rounded-xl hover:bg-gray-50 dark:hover:bg-neutral-600 transition-all font-semibold text-sm">
             Save for Later
+            <sup className="ms-0.5 text-xs bg-blue-700 text-white py-0.5 px-1 rounded-lg">TBD</sup>
           </button>
         </div>
       </div>
