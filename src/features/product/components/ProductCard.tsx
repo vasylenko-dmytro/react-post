@@ -1,6 +1,7 @@
 import React from 'react';
 import { Product } from '../types/product';
 import defaultImg from '@/assets/images/default.png';
+import {formatStampValue} from "../../../shared/utils/stampHelpers";
 
 export default function ProductGrid({ product }: { product: Product }) {
 
@@ -40,7 +41,7 @@ export default function ProductGrid({ product }: { product: Product }) {
               </div>
 
               <div className="text-end">
-                <span className="text-black dark:text-white">{product.denomination}</span>
+                <span className="text-black dark:text-white">{formatStampValue(product.denomination)}</span>
               </div>
             </div>
           </div>
@@ -54,7 +55,7 @@ export default function ProductGrid({ product }: { product: Product }) {
               </div>
 
               <div className="flex justify-end">
-                <span className="text-black dark:text-white">#{product.itemNumber}</span>
+                <span className="text-black dark:text-white">{product.itemNumber}</span>
               </div>
             </div>
           </div>

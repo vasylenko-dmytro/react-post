@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import brandIcon from '../../../assets/logo_75.ico';
+import brandIcon from '@/assets/logo_75.ico';
 
 export default function Header({ onSearch }: { onSearch: (term: string) => void }) {
   const [isOpen, setIsOpen] = useState(false);

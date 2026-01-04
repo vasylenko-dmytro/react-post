@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import type {Product} from '../../features/product/types/product';
 import {ProductCard} from '../../features/product';
 import productData from '../../features/product/data/productData.json';
@@ -20,7 +21,9 @@ export default function HomePage({searchTerm}: { searchTerm: string }) {
         <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 gap-8 lg:gap-12">
           {filteredProducts.map((product) => (
             <div key={product.id}>
-              <ProductCard product={product}/>
+              <Link to={`/stamps/${product.id}`} className="block transition-transform hover:scale-[1.01]">
+                <ProductCard product={product} />
+              </Link>
             </div>
           ))}
         </div>

@@ -1,20 +1,28 @@
 import {useState} from 'react';
+import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import {Header, Footer} from '../features/product/index';
 import HomePage from '../pages/Home/HomePage';
+import ProductPageWrapper from '../pages/Product/ProductPageWrapper';
 
 function App() {
   const [searchTerm, setSearchTerm] = useState("");
 
   return (
-    <div className="min-h-screen flex flex-col bg-gray-100 dark:bg-neutral-700">
-      <Header onSearch={setSearchTerm}/>
+    <BrowserRouter>
+      <div className="min-h-screen flex flex-col bg-gray-100 dark:bg-neutral-700 transition-colors duration-300">
+        <Header onSearch={setSearchTerm}/>
 
-      <main className="flex-1">
-        <HomePage searchTerm={searchTerm}/>
-      </main>
-      <Footer/>
-    </div>
-  )
+        <main className="flex-1">
+          <Routes>
+            <Route path="/" element={<HomePage searchTerm={searchTerm}/>}/>
+            <Route path="/stamps/:id" element={<ProductPageWrapper/>}/>
+          </Routes>
+        </main>
+
+        <Footer/>
+      </div>
+    </BrowserRouter>
+  );
 }
 
 export default App;
