@@ -19,34 +19,3 @@ export interface Product {
   imageUrlPane: string | null;
 }
 
-export interface ProductTitleProps {
-  title: string;
-}
-
-export interface ImageCarouselProps {
-  images: string[];
-  productName?: string;
-}
-
-export interface ProductDescriptionProps {
-  description: string;
-}
-
-export interface QuickFactsProps {
-  itemNumber: number;
-  yearOfIssue: number;
-}
-
-export interface MoreInformationProps {
-  detailedDescription: string;
-  product: Product;
-}
-
-export interface DescriptionBlockProps {
-  description: string;
-}
-
-export interface ProductSpecsBlockProps {
-  product: Product;
-}
-
