@@ -12,7 +12,7 @@ export default function InfoBlock({ label, value }: InfoBlockProps) {
         {label}
       </span>
       <p className="text-gray-900 dark:text-white font-bold">
-        {value || 'N/A'}
+        {value === -1 ? 'Mass-issue' : value || 'N/A'}
       </p>
     </div>
   );
