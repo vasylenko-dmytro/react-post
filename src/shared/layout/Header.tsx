@@ -1,10 +1,15 @@
-import React, { useState } from 'react';
+import React, {useState} from 'react';
+import {useLocation} from 'react-router-dom';
 import brandIcon from '@/assets/logo_75.ico';
 
-export default function Header({ onSearch }: { onSearch: (term: string) => void }) {
+export default function Header({onSearch}: { onSearch: (term: string) => void }) {
   const [isOpen, setIsOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [searchValue, setSearchValue] = useState("");
+
+  const location = useLocation();
+  const isProductPage = location.pathname.startsWith('/stamps/');
+  const effectiveSearchOpen = !isProductPage && isSearchOpen;
 
   const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
     const value = e.target.value;
@@ -17,26 +22,32 @@ export default function Header({ onSearch }: { onSearch: (term: string) => void 
       setSearchValue("");
       onSearch("");
     }
-    setIsSearchOpen(!isSearchOpen);
+    setIsSearchOpen(v => !v);
   };
 
   return (
-    <header className="sticky top-4 inset-x-0 before:absolute before:inset-0 before:max-w-5xl before:mx-2 lg:before:mx-auto before:rounded-4xl before:border before:border-gray-200 dark:before:border-neutral-700 after:absolute after:inset-0 after:-z-1 after:max-w-5xl after:mx-2 lg:after:mx-auto after:rounded-4xl after:bg-white dark:after:bg-neutral-900 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full">
-      <nav className="relative max-w-5xl w-full md:flex md:items-center md:justify-between md:gap-3 ps-5 pe-2 mx-2 lg:mx-auto py-2 dark:bg-neutral-900 rounded-4xl">
+    <header
+      className="sticky top-4 inset-x-0 before:absolute before:inset-0 before:max-w-5xl before:mx-2 lg:before:mx-auto before:rounded-4xl before:border before:border-gray-200 dark:before:border-neutral-700 after:absolute after:inset-0 after:-z-1 after:max-w-5xl after:mx-2 lg:after:mx-auto after:rounded-4xl after:bg-white dark:after:bg-neutral-900 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full">
+      <nav
+        className="relative max-w-5xl w-full md:flex md:items-center md:justify-between md:gap-3 ps-5 pe-2 mx-2 lg:mx-auto py-2 dark:bg-neutral-900 rounded-4xl">
 
         {/* Logo and Mobile Controls */}
         <div className="flex items-center justify-between">
-          <a className="flex items-center font-semibold text-xl text-black dark:text-white focus:outline-hidden" href="/" aria-label="Brand">
+          <a className="flex items-center font-semibold text-xl text-black dark:text-white focus:outline-hidden"
+             href="/" aria-label="Brand">
             <img src={brandIcon} alt="sCollecto" className="h-8 w-auto"/>
           </a>
 
           <div className="md:hidden flex items-center gap-1">
             {/* Mobile Search Toggle */}
             <button
-              onClick={() => setIsSearchOpen(!isSearchOpen)}
+              onClick={() => {
+                if (isProductPage) return;
+                setIsSearchOpen(v => !v);
+              }}
               className="size-9 flex justify-center items-center text-gray-800 dark:text-white hover:bg-gray-100 dark:hover:bg-neutral-800 rounded-full"
             >
-              <SearchIcon />
+              <SearchIcon/>
             </button>
 
             <button
@@ -44,7 +55,7 @@ export default function Header({ onSearch }: { onSearch: (term: string) => void 
               onClick={() => setIsOpen(!isOpen)}
               className="size-9 flex justify-center items-center text-gray-800 dark:text-white border border-gray-200 dark:border-neutral-700 rounded-full hover:bg-gray-100 dark:hover:bg-neutral-700"
             >
-              {!isOpen ? <MenuIcon /> : <CloseIcon />}
+              {!isOpen ? <MenuIcon/> : <CloseIcon/>}
             </button>
           </div>
         </div>
@@ -53,37 +64,56 @@ export default function Header({ onSearch }: { onSearch: (term: string) => void 
         <div className={`${isOpen ? 'block' : 'hidden'} transition-all duration-300 basis-full grow md:block`}>
           <div className="py-2 md:py-0 flex flex-col md:flex-row md:items-center md:justify-end gap-1">
             <a className="p-2 text-sm text-gray-800 dark:text-neutral-200 hover:text-gray-500" href="/">Stamps</a>
-            <a className="p-2 text-sm text-gray-800 dark:text-neutral-200 hover:text-gray-500" href="#">Cards & Envelopes
+            <a className="p-2 text-sm text-gray-800 dark:text-neutral-200 hover:text-gray-500" href="#">Cards &
+              Envelopes
               <sup className="ms-0.5 text-xs bg-blue-700 text-white py-0.5 px-1 rounded-lg">TBD</sup>
             </a>
             <a className="p-2 text-sm text-gray-800 dark:text-neutral-200 hover:text-gray-500" href="#">Collection
               <sup className="ms-0.5 text-xs bg-blue-700 text-white py-0.5 px-1 rounded-lg">TBD</sup>
             </a>
 
-            <div className="relative flex items-center md:ps-2.5 md:ms-1.5 md:before:block md:before:absolute md:before:top-1/2 md:before:-start-px md:before:w-px md:before:h-4 md:before:bg-gray-300 dark:md:before:bg-neutral-700 md:before:-translate-y-1/2">
+            <div
+              className="relative flex items-center md:ps-2.5 md:ms-1.5 md:before:block md:before:absolute md:before:top-1/2 md:before:-start-px md:before:w-px md:before:h-4 md:before:bg-gray-300 dark:md:before:bg-neutral-700 md:before:-translate-y-1/2">
 
               {/* Desktop Search Toggle Button */}
               <button
-                onClick={() => setIsSearchOpen(!isSearchOpen)}
+                onClick={() => {
+                  if (isProductPage) return;
+                  setIsSearchOpen(v => !v);
+                }}
                 className="hidden md:flex p-2 text-gray-800 dark:text-neutral-200 hover:text-gray-500 focus:outline-hidden"
               >
-                <SearchIcon />
+                <SearchIcon/>
               </button>
 
               {/* Language Dropdown */}
               <div className="hs-dropdown [--strategy:absolute] [--placement:bottom-right] relative inline-flex">
-                <button id="hs-pro-aimtlg" type="button" className="flex justify-center items-center gap-x-3 size-9 text-sm text-gray-800 dark:text-neutral-200 hover:text-gray-500 rounded-lg disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-100 dark:hover:bg-neutral-700 dark:focus:bg-neutral-700 dark:hover:text-neutral-200 dark:focus:text-neutral-200">
-                  <svg className="shrink-0 size-4.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/></svg>
+                <button id="hs-pro-aimtlg" type="button"
+                        className="flex justify-center items-center gap-x-3 size-9 text-sm text-gray-800 dark:text-neutral-200 hover:text-gray-500 rounded-lg disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-100 dark:hover:bg-neutral-700 dark:focus:bg-neutral-700 dark:hover:text-neutral-200 dark:focus:text-neutral-200">
+                  <svg className="shrink-0 size-4.5" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                       viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"
+                       strokeLinejoin="round">
+                    <path d="m5 8 6 6"/>
+                    <path d="m4 14 6-6 2-3"/>
+                    <path d="M2 5h12"/>
+                    <path d="M7 2h1"/>
+                    <path d="m22 22-5-10-5 10"/>
+                    <path d="M14 18h6"/>
+                  </svg>
                   <span className="sr-only">Language</span>
                 </button>
 
                 {/* Language Dropdown */}
-                <div className="hs-dropdown-menu hs-dropdown-open:opacity-100 w-40 transition-[opacity,margin] duration opacity-0 hidden z-11 bg-white border border-gray-200 rounded-xl shadow-lg before:absolute before:-top-4 before:start-0 before:w-full before:h-5 dark:bg-neutral-950 dark:border-neutral-700" role="menu" aria-orientation="vertical" aria-labelledby="hs-pro-aimtlg">
+                <div
+                  className="hs-dropdown-menu hs-dropdown-open:opacity-100 w-40 transition-[opacity,margin] duration opacity-0 hidden z-11 bg-white border border-gray-200 rounded-xl shadow-lg before:absolute before:-top-4 before:start-0 before:w-full before:h-5 dark:bg-neutral-950 dark:border-neutral-700"
+                  role="menu" aria-orientation="vertical" aria-labelledby="hs-pro-aimtlg">
                   <div className="p-1 space-y-0.5">
-                    <button type="button" className="w-full flex items-center gap-x-3 py-1.5 px-2 rounded-lg text-sm text-gray-800 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-100 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800">
+                    <button type="button"
+                            className="w-full flex items-center gap-x-3 py-1.5 px-2 rounded-lg text-sm text-gray-800 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-100 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800">
                       English (US)
                     </button>
-                    <button type="button" className="w-full flex items-center gap-x-3 py-1.5 px-2 rounded-lg text-sm text-gray-800 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-100 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800">
+                    <button type="button"
+                            className="w-full flex items-center gap-x-3 py-1.5 px-2 rounded-lg text-sm text-gray-800 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none focus:outline-hidden focus:bg-gray-100 dark:text-neutral-300 dark:hover:bg-neutral-800 dark:focus:bg-neutral-800">
                       Ukraine (UA)
                     </button>
                   </div>
@@ -92,8 +122,9 @@ export default function Header({ onSearch }: { onSearch: (term: string) => void 
               </div>
               {/* End Language Dropdown */}
 
-              <a className="p-2 flex items-center text-sm text-gray-800 dark:text-neutral-200 hover:text-gray-500" href="#">
-                <UserIcon />
+              <a className="p-2 flex items-center text-sm text-gray-800 dark:text-neutral-200 hover:text-gray-500"
+                 href="#">
+                <UserIcon/>
                 Log in
                 <sup className="ms-0.5 text-xs bg-blue-700 text-white py-0.5 px-1 rounded-lg">TBD</sup>
               </a>
@@ -102,13 +133,14 @@ export default function Header({ onSearch }: { onSearch: (term: string) => void 
         </div>
 
         {/* --- Search Bar Module --- */}
-        {isSearchOpen && (
+        {effectiveSearchOpen && (
           <div className="absolute top-full left-0 w-full pt-2 animate-in fade-in slide-in-from-top-2 duration-200">
-            <div className="bg-white dark:bg-neutral-900 border border-gray-200 dark:border-neutral-700 rounded-2xl p-2 shadow-lg">
+            <div
+              className="bg-white dark:bg-neutral-900 border border-gray-200 dark:border-neutral-700 rounded-2xl p-2 shadow-lg">
               <form className="flex items-center w-full">
                 <div className="relative w-full">
                   <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">
-                    <SearchIcon className="size-4 text-gray-400" />
+                    <SearchIcon className="size-4 text-gray-400"/>
                   </div>
                   <input
                     type="search"
@@ -136,26 +168,44 @@ export default function Header({ onSearch }: { onSearch: (term: string) => void 
 }
 
 /* Icons Components */
-function SearchIcon({ className = "size-4" }) {
+function SearchIcon({className = "size-4"}) {
   return (
-    <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+    <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="11" cy="11" r="8"/>
+      <path d="m21 21-4.3-4.3"/>
+    </svg>
   );
 }
 
 function UserIcon() {
   return (
-    <svg className="shrink-0 size-4 me-3 md:me-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+    <svg className="shrink-0 size-4 me-3 md:me-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+         viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"
+         strokeLinejoin="round">
+      <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/>
+      <circle cx="12" cy="7" r="4"/>
+    </svg>
   );
 }
 
 function MenuIcon() {
   return (
-    <svg className="size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="3" x2="21" y1="6" y2="6"/><line x1="3" x2="21" y1="12" y2="12"/><line x1="3" x2="21" y1="18" y2="18"/></svg>
+    <svg className="size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <line x1="3" x2="21" y1="6" y2="6"/>
+      <line x1="3" x2="21" y1="12" y2="12"/>
+      <line x1="3" x2="21" y1="18" y2="18"/>
+    </svg>
   );
 }
 
 function CloseIcon() {
   return (
-    <svg className="size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+    <svg className="size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+         stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M18 6 6 18"/>
+      <path d="m6 6 12 12"/>
+    </svg>
   );
 }

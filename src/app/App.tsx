@@ -5,7 +5,7 @@ import HomePage from '../pages/Home/HomePage';
 import ProductPage from '../pages/Product/ProductPage';
 import NotFoundPage from '../pages/NotFound/NotFoundPage';
 
-function App() {
+export default function App() {
   const [searchTerm, setSearchTerm] = useState("");
 
   return (
@@ -26,5 +26,3 @@ function App() {
     </BrowserRouter>
   );
 }
-
-export default App;
