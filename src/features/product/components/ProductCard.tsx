@@ -11,7 +11,7 @@ export default function ProductGrid({ product }: { product: Product }) {
         <div className="aspect-square bg-gray-300 rounded-xl overflow-hidden">
           <img
             className="w-full h-full object-contain p-4"
-            src={product.imageUrlSmall}
+            src={product.images.small}
             alt={product.name}
             loading="lazy"
             onError={(e) => {
@@ -41,7 +41,7 @@ export default function ProductGrid({ product }: { product: Product }) {
               </div>
 
               <div className="text-end">
-                <span className="text-black dark:text-white">{formatStampValue(product.denomination)}</span>
+                <span className="text-black dark:text-white">{formatStampValue(product.meta.denomination)}</span>
               </div>
             </div>
           </div>
@@ -55,7 +55,7 @@ export default function ProductGrid({ product }: { product: Product }) {
               </div>
 
               <div className="flex justify-end">
-                <span className="text-black dark:text-white">{product.itemNumber}</span>
+                <span className="text-black dark:text-white">{product.sku}</span>
               </div>
             </div>
           </div>
@@ -69,7 +69,7 @@ export default function ProductGrid({ product }: { product: Product }) {
               </div>
 
               <div className="text-end">
-                <span className="text-black dark:text-white">{product.issueYear}</span>
+                <span className="text-black dark:text-white">{product.release.year}</span>
               </div>
             </div>
           </div>

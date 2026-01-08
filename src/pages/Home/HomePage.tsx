@@ -10,8 +10,8 @@ export default function HomePage({searchTerm}: { searchTerm: string }) {
     const term = searchTerm.toLowerCase();
     return (
       product.name.toLowerCase().includes(term) ||
-      product.itemNumber.toString().includes(term) ||
-      product.issueYear.toString().includes(term)
+      product.sku.toString().includes(term) ||
+      product.release.year.toString().includes(term)
     );
   });
 
@@ -20,8 +20,8 @@ export default function HomePage({searchTerm}: { searchTerm: string }) {
       {filteredProducts.length > 0 ? (
         <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 gap-8 lg:gap-12">
           {filteredProducts.map((product) => (
-            <div key={product.id}>
-              <Link to={`/stamps/${product.id}`} className="block transition-transform hover:scale-[1.01]">
+            <div key={product._id}>
+              <Link to={`/stamps/${product._id}`} className="block transition-transform hover:scale-[1.01]">
                 <ProductCard product={product} />
               </Link>
             </div>

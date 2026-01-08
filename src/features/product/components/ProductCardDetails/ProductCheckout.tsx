@@ -14,7 +14,7 @@ export default function ProductCheckout({ product }: { product: Product }) {
           </label>
           <button className="w-full p-4 bg-white dark:bg-neutral-900 border-2 border-blue-600 rounded-xl shadow-sm text-center">
                   <span className="text-xl font-black text-blue-600 dark:text-blue-400">
-                    {formatStampValue(product.denomination)}
+                    {formatStampValue(product.meta.denomination)}
                   </span>
           </button>
         </div>

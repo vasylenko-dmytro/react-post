@@ -5,8 +5,8 @@ import { Product } from "../../types/product";
 export default function ImageGallery({ product }: { product: Product }) {
 
   const images = [
-    product.imageUrlOriginal,
-    product.imageUrlPane
+    product.images.original,
+    product.images.pane
   ].filter(Boolean) as string[];
 
   const [selectedIndex, setSelectedIndex] = useState(0);

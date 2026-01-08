@@ -15,7 +15,7 @@ export default function ContentPanel({product, activeTab}: { product: Product, a
             <div>
               <span className="text-gray-500 block">Stamp Issuance:</span>
               <span className="font-semibold dark:text-white">
-                        {new Date(product.issueDate).toLocaleDateString('en-GB', {
+                        {new Date(product.release.date).toLocaleDateString('en-GB', {
                           day: '2-digit',
                           month: 'long',
                           year: 'numeric',
@@ -25,7 +25,7 @@ export default function ContentPanel({product, activeTab}: { product: Product, a
             <div>
               <span className="text-gray-500 block">Designer:</span>
               <span className="font-semibold dark:text-white">
-                        {product.designer || 'N/A'}
+                        {product.meta.designer || 'N/A'}
                       </span>
             </div>
           </div>
@@ -34,8 +34,8 @@ export default function ContentPanel({product, activeTab}: { product: Product, a
       {activeTab === 'specs' && (
         <div className="flex flex-col gap-3 w-full animate-in fade-in slide-in-from-bottom-4 duration-500">
           <InfoBlock label="Issue:" value={product.name}/>
-          <InfoBlock label="Item Number:" value={product.itemNumber}/>
-          <InfoBlock label="Denomination:" value={product.denomination}/>
+          <InfoBlock label="Item Number:" value={product.sku}/>
+          <InfoBlock label="Denomination:" value={product.meta.denomination}/>
 
           <div className="pt-4 pb-1">
                     <span className="text-[12px] font-black uppercase tracking-widest text-gray-400">
@@ -43,14 +43,14 @@ export default function ContentPanel({product, activeTab}: { product: Product, a
                     </span>
           </div>
 
-          <InfoBlock label="Format:" value={`Pane of ${product.stampsPerPane}`}/>
-          <InfoBlock label="Series:" value={product.name}/>
-          <InfoBlock label="Issue Date:" value={product.issueDate}/>
-          <InfoBlock label="Designer:" value={product.designer}/>
-          <InfoBlock label="Stamps per Pane:" value={product.stampsPerPane}/>
-          <InfoBlock label="Print Quantity:" value={product.printQuantity}/>
-          <InfoBlock label="Perforation:" value={product.perforation ? 'Yes' : 'No'}/>
-          <InfoBlock label="Europa:" value={product.europa ? 'Yes' : 'No'}/>
+          <InfoBlock label="Format:" value={`Pane of ${product.meta.stampsPerPane}`}/>
+          <InfoBlock label="Series:" value={product.meta.series}/>
+          <InfoBlock label="Issue Date:" value={product.release.date}/>
+          <InfoBlock label="Designer:" value={product.meta.designer}/>
+          <InfoBlock label="Stamps per Pane:" value={product.meta.stampsPerPane}/>
+          <InfoBlock label="Print Quantity:" value={product.release.printQuantity}/>
+          <InfoBlock label="Perforation:" value={product.meta.designer ? 'Yes' : 'No'}/>
+          <InfoBlock label="Europa:" value={product.meta.europa ? 'Yes' : 'No'}/>
         </div>
       )}
       {activeTab === 'ship' && (

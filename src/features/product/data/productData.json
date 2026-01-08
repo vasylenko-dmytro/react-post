@@ -1,962 +1,1298 @@
 [
   {
-    "id": "s1974",
+    "_id": "s1974",
     "name": "Тризуб",
-    "description": "21 січня Укрпошта до Дня Соборності України ввела в обіг марку із зображенням Малого Державного Герба України – тризуба. За часів незалежності він став одним із офіційних символів України. Верховної Радою тризуб затверджено Малим Державним Гербом 19 лютого 1992 року. На поштовій марці, окрім зображення тризуба, містяться кольори прапору України, вони ж представлені і на конверті до цього випуску. На штемпелі для погашення поштової марки розміщено відомий вислів В’ячеслава Чорновола «Україна починається з тебе».",
-    "itemNumber": 1974,
-    "denomination": "V",
-    "series": "Тризуб",
-    "themes": null,
-    "europa": null,
-    "designer": "Оксана Шуклінова",
-    "issueYear": 2022,
-    "issueDate": "2022-01-21",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 12,
-    "printQuantity": 300000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1974.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1974.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Тризуб.jpg"
+    "description": "На марці зображено тризуб — Малий Державний Герб України. В основі дизайну — зображення тризуба часів Володимира Великого, що підкреслює тисячолітню спадковість української державності. Цей випуск став символічним провісником року, коли національні символи набули особливого значення.",
+    "sku": 1974,
+    "meta": {
+      "denomination": "V",
+      "series": "Тризуб",
+      "designer": "Оксана Шуклінова",
+      "perforation": true,
+      "stampsPerPane": 12,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-01-21T00:00:00.000Z",
+      "printQuantity": 300000,
+      "isMassIssue": false,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1974.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1974.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Тризуб.jpg"
+    }
   },
   {
-    "id": "s1975",
+    "_id": "s1975",
     "name": "Герби міст: м. Богодухів, Харківська обл.",
     "description": "Дев'ятий випуск стандартних поштових марок: «Герби міст, селищ та сіл України» 2017-2022: Богодухів, Харківська обл.",
-    "itemNumber": 1975,
-    "denomination": "H",
-    "series": "Герби міст, селищ та сіл України",
-    "themes": null,
-    "europa": null,
-    "designer": "Наталія Андрійченко",
-    "issueYear": 2022,
-    "issueDate": "2022-01-21",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 40,
-    "printQuantity": "mass",
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1975.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1975.jpg",
-    "imageUrlPane": null
+    "sku": 1975,
+    "meta": {
+      "denomination": "H",
+      "series": "Герби міст, селищ та сіл України",
+      "designer": "Наталія Андрійченко",
+      "perforation": true,
+      "stampsPerPane": 40,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-01-21T00:00:00.000Z",
+      "printQuantity": 0,
+      "isMassIssue": true,
+      "isAvailable": false
+    },
+    "images": {
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1975.jpg?width=400",
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1975.jpg",
+      "pane": null
+    }
   },
   {
-    "id": "s1976",
+    "_id": "s1976",
     "name": "Пекін-2022",
-    "description": "XXIV зимові Олімпійські ігри пройдуть з 4 по 20 лютого 2022 року в Пекіні. 2892 атлетів візьмуть участь у змаганнях з 7 видів спорту у 24 дисциплінах, де буде розіграно 109 комплектів нагород. До програми Ігор включені 7 нових дисциплін. Пекін стане першим містом, що прийме літні та зимові ІгриГасло Ігор – «Разом заради спільного майбутнього».",
-    "itemNumber": 1976,
-    "denomination": "F",
-    "series": "Олімпійські ігри",
-    "themes": null,
-    "europa": null,
-    "designer": "Марина Куц",
-    "issueYear": 2022,
-    "issueDate": "2022-01-23",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 130000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1976.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1976.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Beijing-2022.jpg"
+    "description": "XXIV зимові Олімпійські ігри пройдуть з 4 по 20 лютого 2022 року в Пекіні. 2892 атлетів візьмуть участь у змаганнях з 7 видів спорту у 24 дисциплінах, де буде розіграно 109 комплектів нагород. До програми Ігор включені 7 нових дисциплін. Пекін стане першим містом, що прийме літні та зимові Ігри. Гасло Ігор – «Разом заради спільного майбутнього».",
+    "sku": 1976,
+    "meta": {
+      "denomination": "F",
+      "series": "Олімпійські ігри",
+      "designer": "Марина Куц",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-01-23T00:00:00.000Z",
+      "printQuantity": 130000,
+      "isMassIssue": false,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1976.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1976.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Beijing-2022.jpg"
+    }
   },
   {
-    "id": "s1977",
+    "_id": "s1977",
     "name": "Природний заповідник „Медобори“: Ясенець білий Dictamnus albus",
     "description": "Природний заповідник «Медобори» — справжня перлина не тільки Тернопільщини, а й всієї України. Він розташований на теренах Подільських Товтр. Площа заповідної території 9516,7 га. У заповіднику представлене значне різноманіття природних цінностей. Особливістю заповідної території є наявність 19 червонокнижних рукокрилих. На території природного заповідника є багато історико-культурних пам’яток, які датуються Х–ХІІІ ст.",
-    "itemNumber": 1977,
-    "denomination": "V",
-    "series": "Природний заповідник",
-    "themes": null,
-    "europa": null,
-    "designer": "Наталія Кохаль",
-    "issueYear": 2022,
-    "issueDate": "2022-02-25",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 5,
-    "printQuantity": 20000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977_—_1981.jpg"
+    "sku": 1977,
+    "meta": {
+      "denomination": "V",
+      "series": "Природний заповідник",
+      "designer": "Наталія Кохаль",
+      "perforation": true,
+      "stampsPerPane": 5,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-02-25T00:00:00.000Z",
+      "printQuantity": 20000,
+      "isMassIssue": false,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977_—_1981.jpg"
+    }
   },
   {
-    "id": "s1978",
+    "_id": "s1978",
     "name": "Природний заповідник „Медобори“: Нетопир середземноморський Pipistrellus kuhlii",
     "description": "Природний заповідник «Медобори» — справжня перлина не тільки Тернопільщини, а й всієї України. Він розташований на теренах Подільських Товтр. Площа заповідної території 9516,7 га. У заповіднику представлене значне різноманіття природних цінностей. Особливістю заповідної території є наявність 19 червонокнижних рукокрилих. На території природного заповідника є багато історико-культурних пам’яток, які датуються Х–ХІІІ ст.",
-    "itemNumber": 1978,
-    "denomination": "V",
-    "series": "Природний заповідник",
-    "themes": null,
-    "europa": null,
-    "designer": "Наталія Кохаль",
-    "issueYear": 2022,
-    "issueDate": "2022-02-25",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 5,
-    "printQuantity": 20000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1978.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1978.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977_—_1981.jpg"
+    "sku": 1978,
+    "meta": {
+      "denomination": "V",
+      "series": "Природний заповідник",
+      "designer": "Наталія Кохаль",
+      "perforation": true,
+      "stampsPerPane": 5,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-02-25T00:00:00.000Z",
+      "printQuantity": 20000,
+      "isMassIssue": false,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1978.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1978.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977_—_1981.jpg"
+    }
   },
   {
-    "id": "s1979",
+    "_id": "s1979",
     "name": "Природний заповідник „Медобори“: Ксилокопа звичайна Xylocopa valga",
     "description": "Природний заповідник «Медобори» — справжня перлина не тільки Тернопільщини, а й всієї України. Він розташований на теренах Подільських Товтр. Площа заповідної території 9516,7 га. У заповіднику представлене значне різноманіття природних цінностей. Особливістю заповідної території є наявність 19 червонокнижних рукокрилих. На території природного заповідника є багато історико-культурних пам’яток, які датуються Х–ХІІІ ст.",
-    "itemNumber": 1979,
-    "denomination": "V",
-    "series": "Природний заповідник",
-    "themes": null,
-    "europa": null,
-    "designer": "Наталія Кохаль",
-    "issueYear": 2022,
-    "issueDate": "2022-02-25",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 5,
-    "printQuantity": 20000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1979.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1979.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977_—_1981.jpg"
+    "sku": 1979,
+    "meta": {
+      "denomination": "V",
+      "series": "Природний заповідник",
+      "designer": "Наталія Кохаль",
+      "perforation": true,
+      "stampsPerPane": 5,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-02-25T00:00:00.000Z",
+      "printQuantity": 20000,
+      "isMassIssue": false,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1979.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1979.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977_—_1981.jpg"
+    }
   },
   {
-    "id": "s1980",
+    "_id": "s1980",
     "name": "Природний заповідник „Медобори“: Шиверекія подільська Schivereckia podolica",
     "description": "Природний заповідник «Медобори» — справжня перлина не тільки Тернопільщини, а й всієї України. Він розташований на теренах Подільських Товтр. Площа заповідної території 9516,7 га. У заповіднику представлене значне різноманіття природних цінностей. Особливістю заповідної території є наявність 19 червонокнижних рукокрилих. На території природного заповідника є багато історико-культурних пам’яток, які датуються Х–ХІІІ ст.",
-    "itemNumber": 1980,
-    "denomination": "V",
-    "series": "Природний заповідник",
-    "themes": null,
-    "europa": null,
-    "designer": "Наталія Кохаль",
-    "issueYear": 2022,
-    "issueDate": "2022-02-25",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 5,
-    "printQuantity": 20000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1980.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1980.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977_—_1981.jpg"
+    "sku": 1980,
+    "meta": {
+      "denomination": "V",
+      "series": "Природний заповідник",
+      "designer": "Наталія Кохаль",
+      "perforation": true,
+      "stampsPerPane": 5,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-02-25T00:00:00.000Z",
+      "printQuantity": 20000,
+      "isMassIssue": false,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1980.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1980.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977_—_1981.jpg"
+    }
   },
   {
-    "id": "s1981",
+    "_id": "s1981",
     "name": "Природний заповідник „Медобори“: Відкасник осотоподібний Carlina cirsioides",
     "description": "Природний заповідник «Медобори» — справжня перлина не тільки Тернопільщини, а й всієї України. Він розташований на теренах Подільських Товтр. Площа заповідної території 9516,7 га. У заповіднику представлене значне різноманіття природних цінностей. Особливістю заповідної території є наявність 19 червонокнижних рукокрилих. На території природного заповідника є багато історико-культурних пам’яток, які датуються Х–ХІІІ ст.",
-    "itemNumber": 1981,
-    "denomination": "V",
-    "series": "Природний заповідник",
-    "themes": null,
-    "europa": null,
-    "designer": "Наталія Кохаль",
-    "issueYear": 2022,
-    "issueDate": "2022-02-25",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 5,
-    "printQuantity": 20000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1981.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1981.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977_—_1981.jpg"
+    "sku": 1981,
+    "meta": {
+      "denomination": "V",
+      "series": "Природний заповідник",
+      "designer": "Наталія Кохаль",
+      "perforation": true,
+      "stampsPerPane": 5,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-02-25T00:00:00.000Z",
+      "printQuantity": 20000,
+      "isMassIssue": false,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1981.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1981.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1977_—_1981.jpg"
+    }
   },
   {
-    "id": "s1983",
+    "_id": "s1983",
     "name": "Олекса Новаківський. 1872–1935",
     "description": "Олекса Харлампійович Новаківський — український живописець і педагог. Його творчість — ціла епоха в розвитку національного українського живопису. У доробку — алегоричні полотна на тему духовного і політичного відродження України, романтичні образи історичних осіб княжої та козацької епох, портрети представників духовної та інтелектуальної еліт української нації. Значне місце відведено шевченкіані. Його роботи зберігаються у музеях України, Польщі, Словаччини, Австрії, Німеччини, Канади, США.",
-    "itemNumber": 1983,
-    "denomination": "V",
-    "series": "Митці України",
-    "themes": null,
-    "europa": null,
-    "designer": "Василь Василенко",
-    "issueYear": 2022,
-    "issueDate": "2022-03-14",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 130000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1983.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1983.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Oleksa_Novakivskyi.jpg"
+    "sku": 1983,
+    "meta": {
+      "denomination": "V",
+      "series": "Митці України",
+      "designer": "Василь Василенко",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-03-14T00:00:00.000Z",
+      "printQuantity": 130000,
+      "isMassIssue": false,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1983.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1983.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Oleksa_Novakivskyi.jpg"
+    }
   },
   {
-    "id": "s1984",
+    "_id": "s1984",
     "name": "Русскій воєнний корабль, іді ... !",
     "description": "Марка «Русскій воєнний корабль, іді ... !»",
-    "itemNumber": 1984,
-    "denomination": "F",
-    "series": "Війна за незалежність",
-    "themes": null,
-    "europa": null,
-    "designer": "Борис Грох",
-    "issueYear": 2022,
-    "issueDate": "2022-04-12",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 500000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1984.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1984.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Russian_warship%2C_go_fuck_yourself_%281984%29.jpg"
+    "sku": 1984,
+    "meta": {
+      "denomination": "F",
+      "series": "Війна за незалежність",
+      "designer": "Борис Грох",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-04-12T00:00:00.000Z",
+      "printQuantity": 500000,
+      "isMassIssue": false,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1984.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1984.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Russian_warship%2C_go_fuck_yourself_%281984%29.jpg"
+    }
   },
   {
-    "id": "s1985",
+    "_id": "s1985",
     "name": "Русскій воєнний корабль, іді ... !",
     "description": "Марка «Русскій воєнний корабль, іді ... !»",
-    "itemNumber": 1985,
-    "denomination": "W",
-    "series": "Війна за незалежність",
-    "themes": null,
-    "europa": null,
-    "designer": "Борис Грох",
-    "issueYear": 2022,
-    "issueDate": "2022-04-12",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 500000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1985.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1985.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Russian_warship%2C_go_fuck_yourself_%281985%29.jpg"
+    "sku": 1985,
+    "meta": {
+      "denomination": "W",
+      "series": "Війна за незалежність",
+      "designer": "Борис Грох",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-04-12T00:00:00.000Z",
+      "printQuantity": 500000,
+      "isMassIssue": false,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1985.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1985.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Russian_warship%2C_go_fuck_yourself_%281985%29.jpg"
+    }
   },
   {
-    "id": "s1986",
+    "_id": "s1986",
     "name": "Русскій воєнний корабль. ВСЬО!",
     "description": "12 квітня 2022 р. Укрпошта ввела в обіг поштові марки «Русскій воєнний корабль, іді … !», які художньо відобразили перші дні воєнної агресії Росії проти України і одну з яскравих сторінок спротиву українських військових окупанту -  відповідь захисників острова Зміїний російському крейсеру «Москва» на пропозицію здатися. Вже наступного дня після введення марок в обіг - 13 квітня - стало відомо про успішну операцію Збройних Сил України, в результаті якої флагманський корабель Чорноморського флоту Росії був уражений і 14 квітня 2022 року потонув. Подія додала поштовим маркам «Русскій воєнний корабль, іді … !» популярності та колекційної цінності і зумовила випуск нової поштової марки «Русскій воєнний корабль ... ВСЬО!», автором якої, як і попередньої, став Борис Грох.",
-    "itemNumber": 1986,
-    "denomination": "F",
-    "series": "Війна за незалежність",
-    "themes": null,
-    "europa": null,
-    "designer": "Борис Грох",
-    "issueYear": 2022,
-    "issueDate": "2022-05-23",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 3000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1986.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1986.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Russian_warship..._done%21_%281986%29.jpg"
+    "sku": 1986,
+    "meta": {
+      "denomination": "F",
+      "series": "Війна за незалежність",
+      "designer": "Борис Грох",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-05-23T00:00:00.000Z",
+      "printQuantity": 3000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1986.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1986.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Russian_warship..._done%21_%281986%29.jpg"
+    }
   },
   {
-    "id": "s1987",
+    "_id": "s1987",
     "name": "Русскій воєнний корабль. DONE!",
     "description": "12 квітня 2022 р. Укрпошта ввела в обіг поштові марки «Русскій воєнний корабль, іді … !», які художньо відобразили перші дні воєнної агресії Росії проти України і одну з яскравих сторінок спротиву українських військових окупанту -  відповідь захисників острова Зміїний російському крейсеру «Москва» на пропозицію здатися. Вже наступного дня після введення марок в обіг - 13 квітня - стало відомо про успішну операцію Збройних Сил України, в результаті якої флагманський корабель Чорноморського флоту Росії був уражений і 14 квітня 2022 року потонув. Подія додала поштовим маркам «Русскій воєнний корабль, іді … !» популярності та колекційної цінності і зумовила випуск нової поштової марки «Русскій воєнний корабль ... ВСЬО!», автором якої, як і попередньої, став Борис Грох.",
-    "itemNumber": 1987,
-    "denomination": "W",
-    "series": "Війна за незалежність",
-    "themes": null,
-    "europa": null,
-    "designer": "Борис Грох",
-    "issueYear": 2022,
-    "issueDate": "2022-05-23",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 2000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1987.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1987.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Russian_warship..._done%21_%281987%29.jpg"
+    "sku": 1987,
+    "meta": {
+      "denomination": "W",
+      "series": "Війна за незалежність",
+      "designer": "Борис Грох",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-05-23T00:00:00.000Z",
+      "printQuantity": 2000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1987.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1987.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Russian_warship..._done%21_%281987%29.jpg"
+    }
   },
   {
-    "id": "s1988",
+    "_id": "s1988",
     "name": "Українська мрія",
     "description": "Ескізом для поштової марки, конверта та картки став малюнок одинадцятирічної Софії Кравчук з м. Любомль Волинської обл. – призерки Всеукраїнського конкурсу малюнків та фотографій «Що для мене Україна?», який відбувся минулого року в рамках відзначення 30-річчя Незалежності України. У конкурсі взяли участь 6 134 учасники, від яких організатори отримали 10 276 робіт (малюнків та фотографій). Дитяча мрія юної художниці Софії Кравчук про щасливе майбутнє України пов’язана з крилатою «Мрією». На малюнку Софії найбільший та найпотужніший у світі літак АН-225 «Мрія» прикрашений рожевими квітами летить до зірок. На жаль, в ході воєнний дій на території України легендарний український літак було зруйновано. Ворог нищить українську техніку, руйнує населені пункти, але він не в змозі знищити ВОЛЮ і прагнення українців до СВОБОДИ, він не може знищити УКРАЇНСЬКУ МРІЮ. А літак, ми, українці, неодмінно відбудуємо і знову вітатимемо його в Києві на параді на честь Дня незалежності України!",
-    "itemNumber": 1988,
-    "denomination": "U",
-    "series": "Ан-225",
-    "themes": null,
-    "europa": null,
-    "designer": "Софія Кравчук",
-    "issueYear": 2022,
-    "issueDate": "2022-06-28",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 3000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1988.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1988.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Ukrainian_dream.jpg"
+    "sku": 1988,
+    "meta": {
+      "denomination": "U",
+      "series": "Ан-225",
+      "designer": "Софія Кравчук",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-06-28T00:00:00.000Z",
+      "printQuantity": 3000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1988.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1988.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Ukrainian_dream.jpg"
+    }
   },
   {
-    "id": "s1989",
+    "_id": "s1989",
     "name": "Доброго вечора, ми з України!",
     "description": "Привітання «Доброго вечора, ми з України!» стало культовим у 2022 р. після російського військового вторгнення в Україну. Сьогодні цими словами розпочинають свої ефіри журналісти, посадовці, військові, вони звучать у композиціях музичних треків. Саме фразу «Доброго вечора, ми з України!» обрали українці, з-поміж п’яти представлених на голосуванні тем, як сюжет наступної поштової марки України воєнного часу. У відкритому конкурсі на кращий ескіз до поштової марки «Доброго вечора, ми з України!», на який надійшло 1500 творчих робіт, беззаперечну перемогу здобув малюнок Анастасії Бондарець. Загалом у голосуванні взяли участь майже 900 тис. респондентів. За словами авторки поштового випуску Анастасії Бондарець, її малюнок про те, як кожен українець робить все від нього залежне, в силу своїх можливостей, аби наблизити нашу Перемогу.",
-    "itemNumber": 1989,
-    "denomination": "M",
-    "series": "Війна за незалежність",
-    "themes": null,
-    "europa": null,
-    "designer": "Анастасія Бондарець",
-    "issueYear": 2022,
-    "issueDate": "2022-07-28",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 3000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1989.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1989.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Good_evening%2C_we_are_from_Ukraine%21_%281989%29.jpg"
+    "sku": 1989,
+    "meta": {
+      "denomination": "M",
+      "series": "Війна за незалежність",
+      "designer": "Анастасія Бондарець",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-07-28T00:00:00.000Z",
+      "printQuantity": 3000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1989.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1989.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Good_evening%2C_we_are_from_Ukraine%21_%281989%29.jpg"
+    }
   },
   {
-    "id": "s1990",
+    "_id": "s1990",
     "name": "Доброго вечора, ми з України!",
     "description": "Привітання «Доброго вечора, ми з України!» стало культовим у 2022 р. після російського військового вторгнення в Україну. Сьогодні цими словами розпочинають свої ефіри журналісти, посадовці, військові, вони звучать у композиціях музичних треків. Саме фразу «Доброго вечора, ми з України!» обрали українці, з-поміж п’яти представлених на голосуванні тем, як сюжет наступної поштової марки України воєнного часу. У відкритому конкурсі на кращий ескіз до поштової марки «Доброго вечора, ми з України!», на який надійшло 1500 творчих робіт, беззаперечну перемогу здобув малюнок Анастасії Бондарець. Загалом у голосуванні взяли участь майже 900 тис. респондентів. За словами авторки поштового випуску Анастасії Бондарець, її малюнок про те, як кожен українець робить все від нього залежне, в силу своїх можливостей, аби наблизити нашу Перемогу.",
-    "itemNumber": 1990,
-    "denomination": "W",
-    "series": "Війна за незалежність",
-    "themes": null,
-    "europa": null,
-    "designer": "Анастасія Бондарець",
-    "issueYear": 2022,
-    "issueDate": "2022-07-28",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 2000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1990.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1990.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Good_evening%2C_we_are_from_Ukraine%21_%281990%29.jpg"
+    "sku": 1990,
+    "meta": {
+      "denomination": "W",
+      "series": "Війна за незалежність",
+      "designer": "Анастасія Бондарець",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-07-28T00:00:00.000Z",
+      "printQuantity": 2000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1990.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1990.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_2022%2C_Good_evening%2C_we_are_from_Ukraine%21_%281990%29.jpg"
+    }
   },
   {
-    "id": "s1991",
+    "_id": "s1991",
     "name": "ВІЛЬНІ. НЕЗЛАМНІ. НЕПЕРЕМОЖНІ",
     "description": "300 років мрій про державність; 105 років боротьби за вільну Україну; 31 рік розбудови незалежності; 8 років відстоювання суверенітету та кордонів. 24 лютого 2022 року росія розпочала новий етап восьмирічної війни проти України – повномасштабний наступ, який триває вже 6 місяців. Неочікувано загарбники стикнулися з величезним опором українців. Завдяки спротиву Збройних Сил України та сил самооборони російська армія щоденно зазнає величезних втрат у живій силі та техніці. І хоча ворог кожного дня здійснює ракетно-бомбові масовані удари по мирним українським містам та селам, влаштовуючи геноцид українського народу, нація залишається непереможною. У боротьбі за свободу українці демонструють неймовірні прояви героїзму, патріотизму, незламності, любові до своєї Батьківщини, кожен – на своєму місці, вкладаючи свій надважливий внесок у Перемогу. Поштовим випуском «ВІЛЬНІ. НЕЗЛАМНІ. НЕПЕРЕМОЖНІ» шануємо українців, які для всього світу стали справжніми героями!",
-    "itemNumber": 1991,
-    "denomination": "60.00 грн",
-    "series": "День Незалежності",
-    "themes": null,
-    "europa": null,
-    "designer": "Антон Хрупін",
-    "issueYear": 2022,
-    "issueDate": "2022-08-24",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 1,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1991.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1991.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1991.jpg"
+    "sku": 1991,
+    "meta": {
+      "denomination": "60.00 грн",
+      "series": "День Незалежності",
+      "designer": "Антон Хрупін",
+      "perforation": true,
+      "stampsPerPane": 1,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-08-24T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1991.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1991.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1991.jpg"
+    }
   },
   {
-    "id": "s1992",
+    "_id": "s1992",
     "name": "Пес Патрон: Патрон допомагає фермерам",
     "description": "Поштовий випуск присвячено псу Патрону – улюбленцю дорослих і дітей, талісману українських рятувальників, бажаному гостю публічних заходів. З початку війни джек-рассел-тер'єр із кличкою Патрон служить в команді піротехніків Державної служби України з надзвичайних ситуацій.  Два роки тому керівник піротехнічної групи Головного управління ДСНС України у Чернігівській області подарував своєму сину щенятко. Чотирилапого готували до виставок, але через війну йому довелося стати сапером. Окрім несення служби, Патрон присутній на пресконференціях, зустрічах з лідерами іноземних держав, а також відвідує дітей у лікарнях. Патрон нагороджений медаллю «За віддану службу». «Пес Патрон» – перші благодійні поштові марки України, випущені з додатковим номіналом – 8 грн. Зібрані в такий спосіб Укрпоштою благодійні внески були використані для придбання машини механізованого розмінування та надання допомоги притулкам для тварин.",
-    "itemNumber": 1992,
-    "denomination": "F+8.00",
-    "series": "Пес Патрон",
-    "themes": null,
-    "europa": null,
-    "designer": "Олександр Нікітюк",
-    "issueYear": 2022,
-    "issueDate": "2022-09-01",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 8,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    "sku": 1992,
+    "meta": {
+      "denomination": "F+8.00",
+      "series": "Пес Патрон",
+      "designer": "Олександр Нікітюк",
+      "perforation": true,
+      "stampsPerPane": 8,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-01T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    }
   },
   {
-    "id": "s1993",
+    "_id": "s1993",
     "name": "Пес Патрон: Патрон із рятувальником",
     "description": "Поштовий випуск присвячено псу Патрону – улюбленцю дорослих і дітей, талісману українських рятувальників, бажаному гостю публічних заходів. З початку війни джек-рассел-тер'єр із кличкою Патрон служить в команді піротехніків Державної служби України з надзвичайних ситуацій.  Два роки тому керівник піротехнічної групи Головного управління ДСНС України у Чернігівській області подарував своєму сину щенятко. Чотирилапого готували до виставок, але через війну йому довелося стати сапером. Окрім несення служби, Патрон присутній на пресконференціях, зустрічах з лідерами іноземних держав, а також відвідує дітей у лікарнях. Патрон нагороджений медаллю «За віддану службу». «Пес Патрон» – перші благодійні поштові марки України, випущені з додатковим номіналом – 8 грн. Зібрані в такий спосіб Укрпоштою благодійні внески були використані для придбання машини механізованого розмінування та надання допомоги притулкам для тварин.",
-    "itemNumber": 1993,
-    "denomination": "F+8.00",
-    "series": "Пес Патрон",
-    "themes": null,
-    "europa": null,
-    "designer": "Олександр Нікітюк",
-    "issueYear": 2022,
-    "issueDate": "2022-09-01",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 8,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1993.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1993.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    "sku": 1993,
+    "meta": {
+      "denomination": "F+8.00",
+      "series": "Пес Патрон",
+      "designer": "Олександр Нікітюк",
+      "perforation": true,
+      "stampsPerPane": 8,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-01T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1993.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1993.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    }
   },
   {
-    "id": "s1994",
+    "_id": "s1994",
     "name": "Пес Патрон: Патрон розблоковує морський шлях",
     "description": "Поштовий випуск присвячено псу Патрону – улюбленцю дорослих і дітей, талісману українських рятувальників, бажаному гостю публічних заходів. З початку війни джек-рассел-тер'єр із кличкою Патрон служить в команді піротехніків Державної служби України з надзвичайних ситуацій.  Два роки тому керівник піротехнічної групи Головного управління ДСНС України у Чернігівській області подарував своєму сину щенятко. Чотирилапого готували до виставок, але через війну йому довелося стати сапером. Окрім несення служби, Патрон присутній на пресконференціях, зустрічах з лідерами іноземних держав, а також відвідує дітей у лікарнях. Патрон нагороджений медаллю «За віддану службу». «Пес Патрон» – перші благодійні поштові марки України, випущені з додатковим номіналом – 8 грн. Зібрані в такий спосіб Укрпоштою благодійні внески були використані для придбання машини механізованого розмінування та надання допомоги притулкам для тварин.",
-    "itemNumber": 1994,
-    "denomination": "F+8.00",
-    "series": "Пес Патрон",
-    "themes": null,
-    "europa": null,
-    "designer": "Олександр Нікітюк",
-    "issueYear": 2022,
-    "issueDate": "2022-09-01",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 8,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1994.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1994.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    "sku": 1994,
+    "meta": {
+      "denomination": "F+8.00",
+      "series": "Пес Патрон",
+      "designer": "Олександр Нікітюк",
+      "perforation": true,
+      "stampsPerPane": 8,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-01T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1994.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1994.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    }
   },
   {
-    "id": "s1995",
+    "_id": "s1995",
     "name": "Пес Патрон: Патрон — справжній козак",
     "description": "Поштовий випуск присвячено псу Патрону – улюбленцю дорослих і дітей, талісману українських рятувальників, бажаному гостю публічних заходів. З початку війни джек-рассел-тер'єр із кличкою Патрон служить в команді піротехніків Державної служби України з надзвичайних ситуацій.  Два роки тому керівник піротехнічної групи Головного управління ДСНС України у Чернігівській області подарував своєму сину щенятко. Чотирилапого готували до виставок, але через війну йому довелося стати сапером. Окрім несення служби, Патрон присутній на пресконференціях, зустрічах з лідерами іноземних держав, а також відвідує дітей у лікарнях. Патрон нагороджений медаллю «За віддану службу». «Пес Патрон» – перші благодійні поштові марки України, випущені з додатковим номіналом – 8 грн. Зібрані в такий спосіб Укрпоштою благодійні внески були використані для придбання машини механізованого розмінування та надання допомоги притулкам для тварин.",
-    "itemNumber": 1995,
-    "denomination": "F+8.00",
-    "series": "Пес Патрон",
-    "themes": null,
-    "europa": null,
-    "designer": "Олександр Нікітюк",
-    "issueYear": 2022,
-    "issueDate": "2022-09-01",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 8,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1995.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1995.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    "sku": 1995,
+    "meta": {
+      "denomination": "F+8.00",
+      "series": "Пес Патрон",
+      "designer": "Олександр Нікітюк",
+      "perforation": true,
+      "stampsPerPane": 8,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-01T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1995.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1995.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    }
   },
   {
-    "id": "s1996",
+    "_id": "s1996",
     "name": "Пес Патрон: Патрон рятує дітей",
     "description": "Поштовий випуск присвячено псу Патрону – улюбленцю дорослих і дітей, талісману українських рятувальників, бажаному гостю публічних заходів. З початку війни джек-рассел-тер'єр із кличкою Патрон служить в команді піротехніків Державної служби України з надзвичайних ситуацій.  Два роки тому керівник піротехнічної групи Головного управління ДСНС України у Чернігівській області подарував своєму сину щенятко. Чотирилапого готували до виставок, але через війну йому довелося стати сапером. Окрім несення служби, Патрон присутній на пресконференціях, зустрічах з лідерами іноземних держав, а також відвідує дітей у лікарнях. Патрон нагороджений медаллю «За віддану службу». «Пес Патрон» – перші благодійні поштові марки України, випущені з додатковим номіналом – 8 грн. Зібрані в такий спосіб Укрпоштою благодійні внески були використані для придбання машини механізованого розмінування та надання допомоги притулкам для тварин.",
-    "itemNumber": 1996,
-    "denomination": "F+8.00",
-    "series": "Пес Патрон",
-    "themes": null,
-    "europa": null,
-    "designer": "Олександр Нікітюк",
-    "issueYear": 2022,
-    "issueDate": "2022-09-01",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 8,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1996.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1996.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    "sku": 1996,
+    "meta": {
+      "denomination": "F+8.00",
+      "series": "Пес Патрон",
+      "designer": "Олександр Нікітюк",
+      "perforation": true,
+      "stampsPerPane": 8,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-01T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1996.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1996.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    }
   },
   {
-    "id": "s1997",
+    "_id": "s1997",
     "name": "Пес Патрон: Віщий сон Патрона",
     "description": "Поштовий випуск присвячено псу Патрону – улюбленцю дорослих і дітей, талісману українських рятувальників, бажаному гостю публічних заходів. З початку війни джек-рассел-тер'єр із кличкою Патрон служить в команді піротехніків Державної служби України з надзвичайних ситуацій.  Два роки тому керівник піротехнічної групи Головного управління ДСНС України у Чернігівській області подарував своєму сину щенятко. Чотирилапого готували до виставок, але через війну йому довелося стати сапером. Окрім несення служби, Патрон присутній на пресконференціях, зустрічах з лідерами іноземних держав, а також відвідує дітей у лікарнях. Патрон нагороджений медаллю «За віддану службу». «Пес Патрон» – перші благодійні поштові марки України, випущені з додатковим номіналом – 8 грн. Зібрані в такий спосіб Укрпоштою благодійні внески були використані для придбання машини механізованого розмінування та надання допомоги притулкам для тварин.",
-    "itemNumber": 1997,
-    "denomination": "F+8.00",
-    "series": "Пес Патрон",
-    "themes": null,
-    "europa": null,
-    "designer": "Олександр Нікітюк",
-    "issueYear": 2022,
-    "issueDate": "2022-09-01",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 8,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1997.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1997.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    "sku": 1997,
+    "meta": {
+      "denomination": "F+8.00",
+      "series": "Пес Патрон",
+      "designer": "Олександр Нікітюк",
+      "perforation": true,
+      "stampsPerPane": 8,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-01T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1997.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1997.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    }
   },
   {
-    "id": "s1998",
+    "_id": "s1998",
     "name": "Пес Патрон: Патрон із нагородою",
     "description": "Поштовий випуск присвячено псу Патрону – улюбленцю дорослих і дітей, талісману українських рятувальників, бажаному гостю публічних заходів. З початку війни джек-рассел-тер'єр із кличкою Патрон служить в команді піротехніків Державної служби України з надзвичайних ситуацій.  Два роки тому керівник піротехнічної групи Головного управління ДСНС України у Чернігівській області подарував своєму сину щенятко. Чотирилапого готували до виставок, але через війну йому довелося стати сапером. Окрім несення служби, Патрон присутній на пресконференціях, зустрічах з лідерами іноземних держав, а також відвідує дітей у лікарнях. Патрон нагороджений медаллю «За віддану службу». «Пес Патрон» – перші благодійні поштові марки України, випущені з додатковим номіналом – 8 грн. Зібрані в такий спосіб Укрпоштою благодійні внески були використані для придбання машини механізованого розмінування та надання допомоги притулкам для тварин.",
-    "itemNumber": 1998,
-    "denomination": "F+8.00",
-    "series": "Пес Патрон",
-    "themes": null,
-    "europa": null,
-    "designer": "Олександр Нікітюк",
-    "issueYear": 2022,
-    "issueDate": "2022-09-01",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 8,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1998.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1998.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    "sku": 1998,
+    "meta": {
+      "denomination": "F+8.00",
+      "series": "Пес Патрон",
+      "designer": "Олександр Нікітюк",
+      "perforation": true,
+      "stampsPerPane": 8,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-01T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1998.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1998.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    }
   },
   {
-    "id": "s1999",
+    "_id": "s1999",
     "name": "Пес Патрон",
     "description": "Поштовий випуск присвячено псу Патрону – улюбленцю дорослих і дітей, талісману українських рятувальників, бажаному гостю публічних заходів. З початку війни джек-рассел-тер'єр із кличкою Патрон служить в команді піротехніків Державної служби України з надзвичайних ситуацій.  Два роки тому керівник піротехнічної групи Головного управління ДСНС України у Чернігівській області подарував своєму сину щенятко. Чотирилапого готували до виставок, але через війну йому довелося стати сапером. Окрім несення служби, Патрон присутній на пресконференціях, зустрічах з лідерами іноземних держав, а також відвідує дітей у лікарнях. Патрон нагороджений медаллю «За віддану службу». «Пес Патрон» – перші благодійні поштові марки України, випущені з додатковим номіналом – 8 грн. Зібрані в такий спосіб Укрпоштою благодійні внески були використані для придбання машини механізованого розмінування та надання допомоги притулкам для тварин.",
-    "itemNumber": 1999,
-    "denomination": "F+8.00",
-    "series": "Пес Патрон",
-    "themes": null,
-    "europa": null,
-    "designer": "Олександр Нікітюк",
-    "issueYear": 2022,
-    "issueDate": "2022-09-01",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 8,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1999.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1999.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    "sku": 1999,
+    "meta": {
+      "denomination": "F+8.00",
+      "series": "Пес Патрон",
+      "designer": "Олександр Нікітюк",
+      "perforation": true,
+      "stampsPerPane": 8,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-01T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1999.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1999.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s1992—1999.jpg"
+    }
   },
   {
-    "id": "s2000",
+    "_id": "s2000",
     "name": "Сковорода: Сад божественних пісень (частина 1)",
     "description": "Григорій Сковорода — потужний мислитель, цікавий письменник, неординарна особистість, якою б пишалася кожна європейська культура. Народився у смт Чорнухи (Полтавська обл.). Навчався у Києво-Могилянській академії. Віддавав перевагу особистій духовній свободі — вів аскетичний спосіб життя та багато часу проводив у мандрах. Серед творчої спадщини Григорія Сковороди: філософські твори, збірки пісень та байок («Сад божественних пісень», «Байки Харківські»). Велику популярність здобули вислови Сковороди, присвячені головним чином етиці: «Любов виникає з любові…», «Роби те, до чого народжений…», «…турбота – рух душі, а життя – це рух» тощо. З них складено чимало збірок афоризмів. Авторський вислів — «Світ ловив мене, але не спіймав» — став сьогодні особливо актуальним, позаяк філософа «не зловили» й російські агресори. 6 травня 2022 р. російські військові поцілили ракетою в будівлю Національного літературно-меморіального музею Г.С. Сковороди у с. Сковородинівка (Харківська обл.), де останні роки жив і творив мислитель. І хоча будівля була сильно пошкоджена – вигоріла всередині – автентичні предмети музейного фонду, пов’язані з життям та творчістю Григорія Сковороди, збережені. Вціліла і статуя філософа. Поштовий блок складається з двох марок. На одній зображений малюнок Сковороди — фонтан, що символізує концепцію філософа про «нерівну рівність». На другій марці блоку зображений сам Григорій Сковорода у повний зріст.",
-    "itemNumber": 2000,
-    "denomination": "15.00",
-    "series": "Сковорода",
-    "themes": null,
-    "europa": null,
-    "designer": "Харук Олександр та Харук Сергій",
-    "issueYear": 2022,
-    "issueDate": "2022-09-22",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 2,
-    "printQuantity": 500000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2000.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2000.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2000_—_2001.jpg"
+    "sku": 2000,
+    "meta": {
+      "denomination": "15.00",
+      "series": "Сковорода",
+      "designer": "Харук Олександр та Харук Сергій",
+      "perforation": true,
+      "stampsPerPane": 2,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-22T00:00:00.000Z",
+      "printQuantity": 500000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2000.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2000.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2000_—_2001.jpg"
+    }
   },
   {
-    "id": "s2001",
+    "_id": "s2001",
     "name": "Сковорода: Сад божественних пісень (частина 2)",
     "description": "Григорій Сковорода — потужний мислитель, цікавий письменник, неординарна особистість, якою б пишалася кожна європейська культура. Народився у смт Чорнухи (Полтавська обл.). Навчався у Києво-Могилянській академії. Віддавав перевагу особистій духовній свободі — вів аскетичний спосіб життя та багато часу проводив у мандрах. Серед творчої спадщини Григорія Сковороди: філософські твори, збірки пісень та байок («Сад божественних пісень», «Байки Харківські»). Велику популярність здобули вислови Сковороди, присвячені головним чином етиці: «Любов виникає з любові…», «Роби те, до чого народжений…», «…турбота – рух душі, а життя – це рух» тощо. З них складено чимало збірок афоризмів. Авторський вислів — «Світ ловив мене, але не спіймав» — став сьогодні особливо актуальним, позаяк філософа «не зловили» й російські агресори. 6 травня 2022 р. російські військові поцілили ракетою в будівлю Національного літературно-меморіального музею Г.С. Сковороди у с. Сковородинівка (Харківська обл.), де останні роки жив і творив мислитель. І хоча будівля була сильно пошкоджена – вигоріла всередині – автентичні предмети музейного фонду, пов’язані з життям та творчістю Григорія Сковороди, збережені. Вціліла і статуя філософа. Поштовий блок складається з двох марок. На одній зображений малюнок Сковороди — фонтан, що символізує концепцію філософа про «нерівну рівність». На другій марці блоку зображений сам Григорій Сковорода у повний зріст.",
-    "itemNumber": 2001,
-    "denomination": "15.00",
-    "series": "Сковорода",
-    "themes": null,
-    "europa": null,
-    "designer": "Харук Олександр та Харук Сергій",
-    "issueYear": 2022,
-    "issueDate": "2022-09-22",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 2,
-    "printQuantity": 500000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2001.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2001.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2000_—_2001.jpg"
+    "sku": 2001,
+    "meta": {
+      "denomination": "15.00",
+      "series": "Сковорода",
+      "designer": "Харук Олександр та Харук Сергій",
+      "perforation": true,
+      "stampsPerPane": 2,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-22T00:00:00.000Z",
+      "printQuantity": 500000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2001.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2001.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2000_—_2001.jpg"
+    }
   },
   {
-    "id": "s2002",
+    "_id": "s2002",
     "name": "Культурні епохи України: Сармати",
     "description": "Сармати – іраномовні кочові племена, які за доби раннього заліза мешкали в степах від Приуралля до Подунав’я. Протягом ІІ ст. до н.е. – ІV ст. н.е. українські степи населяли сарматські племена роксоланів, язигів, аорсів та аланів.",
-    "itemNumber": 2002,
-    "denomination": "47.00",
-    "series": "Культурні епохи України",
-    "themes": null,
-    "europa": null,
-    "designer": "Харук Олександр та Харук Сергій",
-    "issueYear": 2022,
-    "issueDate": "2022-09-27",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 1,
-    "printQuantity": 20000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2002.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2002.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2002.jpg"
+    "sku": 2002,
+    "meta": {
+      "denomination": "47.00",
+      "series": "Культурні епохи України",
+      "designer": "Харук Олександр та Харук Сергій",
+      "perforation": true,
+      "stampsPerPane": 1,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-27T00:00:00.000Z",
+      "printQuantity": 20000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2002.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2002.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2002.jpg"
+    }
   },
   {
-    "id": "s2003",
+    "_id": "s2003",
     "name": "Писанки: Львівська обл.",
     "description": "Стандартна марка «Писанки»: Львівська область",
-    "itemNumber": 2003,
-    "denomination": "U",
-    "series": "Писанки",
-    "themes": null,
-    "europa": null,
-    "designer": "Наталія Андрійченко",
-    "issueYear": 2022,
-    "issueDate": "2022-09-27",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 40,
-    "printQuantity": "mass",
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2003.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2003.jpg",
-    "imageUrlPane": null
+    "sku": 2003,
+    "meta": {
+      "denomination": "U",
+      "series": "Писанки",
+      "designer": "Наталія Андрійченко",
+      "perforation": true,
+      "stampsPerPane": 40,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-27T00:00:00.000Z",
+      "printQuantity": 0,
+      "isMassIssue": true,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2003.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2003.jpg?width=400",
+      "pane": null
+    }
   },
   {
-    "id": "s2004",
+    "_id": "s2004",
     "name": "Писанки: с. Яворівка, Вінницька обл.",
     "description": "Стандартна марка «Писанки»: с. Яворівка, Вінницька область",
-    "itemNumber": 2004,
-    "denomination": "М",
-    "series": "Писанки",
-    "themes": null,
-    "europa": null,
-    "designer": "Наталія Андрійченко",
-    "issueYear": 2022,
-    "issueDate": "2022-09-27",
-    "availability": false,
-    "perforation": true,
-    "stampsPerPane": 40,
-    "printQuantity": "mass",
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2004.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2004.jpg",
-    "imageUrlPane": null
+    "sku": 2004,
+    "meta": {
+      "denomination": "М",
+      "series": "Писанки",
+      "designer": "Наталія Андрійченко",
+      "perforation": true,
+      "stampsPerPane": 40,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-09-27T00:00:00.000Z",
+      "printQuantity": 0,
+      "isMassIssue": true,
+      "isAvailable": false
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2004.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2004.jpg?width=400",
+      "pane": null
+    }
   },
   {
-    "id": "s2005",
+    "_id": "s2005",
     "name": "Слава Збройним Силам України: «Десантно-штурмові війська ЗСУ»",
     "description": "Поштовий випуск присвячений захисникам і захисницям України, які боронять священну українську землю і тим, хто віддав своє життя, захищаючи суверенітет і територіальну цілісність нашої держави. Збройні Сили України — одна з найкращих армій світу, що демонструє професіоналізм, мужність, високу боєздатність і винахідливість у протистоянні потужному ворогу. Марковий аркуш «Слава Збройним Силам України!» містить поштові марки, на яких зображені військовослужбовці Сухопутних військ, Повітряних Сил, Військово-Морських Сил, Десантно-штурмових військ, Сил спеціальних операцій та Сил територіальної оборони Збройних Сил України, які дають гідну відсіч агресору, захищають Державу на землі, в повітрі та на морі.",
-    "itemNumber": 2005,
-    "denomination": "U+8.00",
-    "series": "Слава ЗСУ",
-    "themes": null,
-    "europa": null,
-    "designer": "Антон Хрупін",
-    "issueYear": 2022,
-    "issueDate": "2022-10-14",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    "sku": 2005,
+    "meta": {
+      "denomination": "U+8.00",
+      "series": "Слава ЗСУ",
+      "designer": "Антон Хрупін",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-10-14T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    }
   },
   {
-    "id": "s2006",
+    "_id": "s2006",
     "name": "Слава Збройним Силам України: «Військово-Морські Сили ЗСУ»",
     "description": "Поштовий випуск присвячений захисникам і захисницям України, які боронять священну українську землю і тим, хто віддав своє життя, захищаючи суверенітет і територіальну цілісність нашої держави. Збройні Сили України — одна з найкращих армій світу, що демонструє професіоналізм, мужність, високу боєздатність і винахідливість у протистоянні потужному ворогу. Марковий аркуш «Слава Збройним Силам України!» містить поштові марки, на яких зображені військовослужбовці Сухопутних військ, Повітряних Сил, Військово-Морських Сил, Десантно-штурмових військ, Сил спеціальних операцій та Сил територіальної оборони Збройних Сил України, які дають гідну відсіч агресору, захищають Державу на землі, в повітрі та на морі.",
-    "itemNumber": 2006,
-    "denomination": "U+8.00",
-    "series": "Слава ЗСУ",
-    "themes": null,
-    "europa": null,
-    "designer": "Антон Хрупін",
-    "issueYear": 2022,
-    "issueDate": "2022-10-14",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2006.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2006.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    "sku": 2006,
+    "meta": {
+      "denomination": "U+8.00",
+      "series": "Слава ЗСУ",
+      "designer": "Антон Хрупін",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-10-14T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2006.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2006.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    }
   },
   {
-    "id": "s2007",
+    "_id": "s2007",
     "name": "Слава Збройним Силам України: «Сухопутні війська ЗСУ»",
     "description": "Поштовий випуск присвячений захисникам і захисницям України, які боронять священну українську землю і тим, хто віддав своє життя, захищаючи суверенітет і територіальну цілісність нашої держави. Збройні Сили України — одна з найкращих армій світу, що демонструє професіоналізм, мужність, високу боєздатність і винахідливість у протистоянні потужному ворогу. Марковий аркуш «Слава Збройним Силам України!» містить поштові марки, на яких зображені військовослужбовці Сухопутних військ, Повітряних Сил, Військово-Морських Сил, Десантно-штурмових військ, Сил спеціальних операцій та Сил територіальної оборони Збройних Сил України, які дають гідну відсіч агресору, захищають Державу на землі, в повітрі та на морі.",
-    "itemNumber": 2007,
-    "denomination": "U+8.00",
-    "series": "Слава ЗСУ",
-    "themes": null,
-    "europa": null,
-    "designer": "Антон Хрупін",
-    "issueYear": 2022,
-    "issueDate": "2022-10-14",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2007.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2007.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    "sku": 2007,
+    "meta": {
+      "denomination": "U+8.00",
+      "series": "Слава ЗСУ",
+      "designer": "Антон Хрупін",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-10-14T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2007.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2007.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    }
   },
   {
-    "id": "s2008",
+    "_id": "s2008",
     "name": "Слава Збройним Силам України: «Сили територіальної оборони ЗСУ»",
     "description": "Поштовий випуск присвячений захисникам і захисницям України, які боронять священну українську землю і тим, хто віддав своє життя, захищаючи суверенітет і територіальну цілісність нашої держави. Збройні Сили України — одна з найкращих армій світу, що демонструє професіоналізм, мужність, високу боєздатність і винахідливість у протистоянні потужному ворогу. Марковий аркуш «Слава Збройним Силам України!» містить поштові марки, на яких зображені військовослужбовці Сухопутних військ, Повітряних Сил, Військово-Морських Сил, Десантно-штурмових військ, Сил спеціальних операцій та Сил територіальної оборони Збройних Сил України, які дають гідну відсіч агресору, захищають Державу на землі, в повітрі та на морі.",
-    "itemNumber": 2008,
-    "denomination": "U+8.00",
-    "series": "Слава ЗСУ",
-    "themes": null,
-    "europa": null,
-    "designer": "Антон Хрупін",
-    "issueYear": 2022,
-    "issueDate": "2022-10-14",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2008.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2008.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    "sku": 2008,
+    "meta": {
+      "denomination": "U+8.00",
+      "series": "Слава ЗСУ",
+      "designer": "Антон Хрупін",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-10-14T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2008.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2008.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    }
   },
   {
-    "id": "s2009",
+    "_id": "s2009",
     "name": "Слава Збройним Силам України: «Сили спеціальних операцій ЗСУ»",
     "description": "Поштовий випуск присвячений захисникам і захисницям України, які боронять священну українську землю і тим, хто віддав своє життя, захищаючи суверенітет і територіальну цілісність нашої держави. Збройні Сили України — одна з найкращих армій світу, що демонструє професіоналізм, мужність, високу боєздатність і винахідливість у протистоянні потужному ворогу. Марковий аркуш «Слава Збройним Силам України!» містить поштові марки, на яких зображені військовослужбовці Сухопутних військ, Повітряних Сил, Військово-Морських Сил, Десантно-штурмових військ, Сил спеціальних операцій та Сил територіальної оборони Збройних Сил України, які дають гідну відсіч агресору, захищають Державу на землі, в повітрі та на морі.",
-    "itemNumber": 2009,
-    "denomination": "U+8.00",
-    "series": "Слава ЗСУ",
-    "themes": null,
-    "europa": null,
-    "designer": "Антон Хрупін",
-    "issueYear": 2022,
-    "issueDate": "2022-10-14",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2009.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2009.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    "sku": 2009,
+    "meta": {
+      "denomination": "U+8.00",
+      "series": "Слава ЗСУ",
+      "designer": "Антон Хрупін",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-10-14T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2009.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2009.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    }
   },
   {
-    "id": "s2010",
+    "_id": "s2010",
     "name": "Слава Збройним Силам України: «Повітряні Сили ЗСУ»",
     "description": "Поштовий випуск присвячений захисникам і захисницям України, які боронять священну українську землю і тим, хто віддав своє життя, захищаючи суверенітет і територіальну цілісність нашої держави. Збройні Сили України — одна з найкращих армій світу, що демонструє професіоналізм, мужність, високу боєздатність і винахідливість у протистоянні потужному ворогу. Марковий аркуш «Слава Збройним Силам України!» містить поштові марки, на яких зображені військовослужбовці Сухопутних військ, Повітряних Сил, Військово-Морських Сил, Десантно-штурмових військ, Сил спеціальних операцій та Сил територіальної оборони Збройних Сил України, які дають гідну відсіч агресору, захищають Державу на землі, в повітрі та на морі.",
-    "itemNumber": 2010,
-    "denomination": "U+8.00",
-    "series": "Слава ЗСУ",
-    "themes": null,
-    "europa": null,
-    "designer": "Антон Хрупін",
-    "issueYear": 2022,
-    "issueDate": "2022-10-14",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 10,
-    "printQuantity": 1000000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2010.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2010.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    "sku": 2010,
+    "meta": {
+      "denomination": "U+8.00",
+      "series": "Слава ЗСУ",
+      "designer": "Антон Хрупін",
+      "perforation": true,
+      "stampsPerPane": 10,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-10-14T00:00:00.000Z",
+      "printQuantity": 1000000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2010.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2010.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2005_—_2010.jpg"
+    }
   },
   {
-    "id": "s2011",
+    "_id": "s2011",
     "name": "Кримський міст — на біс!",
     "description": "Марка «Кримський міст — на біс!»",
-    "itemNumber": 2011,
-    "denomination": "M",
-    "series": "Війна за незалежність",
-    "themes": null,
-    "europa": null,
-    "designer": "Юрій Шаповал",
-    "issueYear": 2022,
-    "issueDate": "2022-11-04",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 7,
-    "printQuantity": 2100000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2011.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2011.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_Crimean_bridge_encore.jpg"
+    "sku": 2011,
+    "meta": {
+      "denomination": "M",
+      "series": "Війна за незалежність",
+      "designer": "Юрій Шаповал",
+      "perforation": true,
+      "stampsPerPane": 7,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-11-04T00:00:00.000Z",
+      "printQuantity": 2100000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2011.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2011.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheets_of_stamp_of_Ukraine%2C_Crimean_bridge_encore.jpg"
+    }
   },
   {
-    "id": "s2012",
+    "_id": "s2012",
     "name": "Європа. Історії та міфи: Сварог",
     "description": "Український поштовий випуск за програмою «Європа» на тему «Історії та міфи» присвячений давньослов'янським богам Сварогу та Ладі. Сварог – бог вогню та ковальства. Вважається, що Сварог створив Всесвіт, Землю, всіх тварин на ній та людей, встановив шлюбні закони. Найраніше писемне джерело, де згадується Сварог – «Повість минулих літ». Зі Сварогом пов'язують знак у вигляді хреста – Сварґу, яка є символом святості, духовної сили. Лада – богиня материнства, весни, кохання та шлюбу. За переказами була дружиною бога Сварога і матір’ю Лелі та Полеля. У слов'янській міфології Лада виступає в образі вродливої жінки, уквітчаної трояндами і колосками. Її ім'я згадується у давньоукраїнських веснянках. Автор випуску – український художник Миколай Кочубей – використав на ескізах знаки, які сплітаючись в сюжет, перетворюють символи на образи. Так, у святковому жіночому хороводі та у стрімкому бігу коней зашифровано знак Сварґу, а у подвійній спіралі ДНК – безкінечний рух та процес еволюції.",
-    "itemNumber": 2012,
-    "denomination": "A",
-    "series": "Історії та міфи",
-    "themes": null,
-    "europa": true,
-    "designer": "Микола Кочубей",
-    "issueYear": 2022,
-    "issueDate": "2022-11-22",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 180000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2012.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2012.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Історії_та_міфи_%28аркуш_Сварог%29.jpg"
+    "sku": 2012,
+    "meta": {
+      "denomination": "A",
+      "series": "Історії та міфи",
+      "designer": "Микола Кочубей",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": true
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-11-22T00:00:00.000Z",
+      "printQuantity": 180000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2012.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2012.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Історії_та_міфи_%28аркуш_Сварог%29.jpg"
+    }
   },
   {
-    "id": "s2013",
+    "_id": "s2013",
     "name": "Європа. Історії та міфи: Лада",
     "description": "Український поштовий випуск за програмою «Європа» на тему «Історії та міфи» присвячений давньослов'янським богам Сварогу та Ладі. Сварог – бог вогню та ковальства. Вважається, що Сварог створив Всесвіт, Землю, всіх тварин на ній та людей, встановив шлюбні закони. Найраніше писемне джерело, де згадується Сварог – «Повість минулих літ». Зі Сварогом пов'язують знак у вигляді хреста – Сварґу, яка є символом святості, духовної сили. Лада – богиня материнства, весни, кохання та шлюбу. За переказами була дружиною бога Сварога і матір’ю Лелі та Полеля. У слов'янській міфології Лада виступає в образі вродливої жінки, уквітчаної трояндами і колосками. Її ім'я згадується у давньоукраїнських веснянках. Автор випуску – український художник Миколай Кочубей – використав на ескізах знаки, які сплітаючись в сюжет, перетворюють символи на образи. Так, у святковому жіночому хороводі та у стрімкому бігу коней зашифровано знак Сварґу, а у подвійній спіралі ДНК – безкінечний рух та процес еволюції.",
-    "itemNumber": 2013,
-    "denomination": "A",
-    "series": "Історії та міфи",
-    "themes": null,
-    "europa": true,
-    "designer": "Микола Кочубей",
-    "issueYear": 2022,
-    "issueDate": "2022-11-22",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 180000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2013.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2013.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Історії_та_міфи_%28аркуш_Лада%29.jpg"
+    "sku": 2013,
+    "meta": {
+      "denomination": "A",
+      "series": "Історії та міфи",
+      "designer": "Микола Кочубей",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": true
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-11-22T00:00:00.000Z",
+      "printQuantity": 180000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2013.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2013.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Історії_та_міфи_%28аркуш_Лада%29.jpg"
+    }
   },
   {
-    "id": "s2014",
+    "_id": "s2014",
     "name": "Зброя Перемоги: РСЗВ «Вільха»",
     "description": "З перших днів повномасштабної війни Збройні Сили України застосовують на полі бою зброю як вітчизняного, так і закордонного виробництва, яка в руках українських воїнів щодня наближає Україну до Перемоги. «Вільха» — реактивна система залпового вогню, призначена для ураження на дальніх відстанях броньованої, легкоброньованої та неброньованої техніки (Україна). «Нептун» — протикорабельний ракетний комплекс наземного базування з протикорабельними крилатими ракетами, призначений для ураження бойових кораблів (Україна). 13.04.2022 р. ракетами «Нептун» ЗСУ було знищено російський крейсер «Москва».  «Стугна-П» — переносний протитанковий ракетний комплекс, призначений для ураження рухомих та нерухомих броньованих цілей (Україна). «Байрактар ТБ2» — безпілотний літальний апарат з великою тривалістю польоту (Туреччина). FGM-148 «Джавелін» — переносний протитанковий ракетний комплекс, призначений для ураження бронетехніки, укріплень на землі, а також деяких літальних об'єктів (США).",
-    "itemNumber": 2014,
-    "denomination": "U+3.00",
-    "series": "Зброя Перемоги",
-    "themes": null,
-    "europa": null,
-    "designer": "Харук Олександр та Харук Сергій",
-    "issueYear": 2022,
-    "issueDate": "2022-12-06",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 200000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    "sku": 2014,
+    "meta": {
+      "denomination": "U+3.00",
+      "series": "Зброя Перемоги",
+      "designer": "Харук Олександр та Харук Сергій",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-12-06T00:00:00.000Z",
+      "printQuantity": 200000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    }
   },
   {
-    "id": "s2015",
+    "_id": "s2015",
     "name": "Зброя Перемоги: РК-360МЦ «Нептун»",
     "description": "З перших днів повномасштабної війни Збройні Сили України застосовують на полі бою зброю як вітчизняного, так і закордонного виробництва, яка в руках українських воїнів щодня наближає Україну до Перемоги. «Вільха» — реактивна система залпового вогню, призначена для ураження на дальніх відстанях броньованої, легкоброньованої та неброньованої техніки (Україна). «Нептун» — протикорабельний ракетний комплекс наземного базування з протикорабельними крилатими ракетами, призначений для ураження бойових кораблів (Україна). 13.04.2022 р. ракетами «Нептун» ЗСУ було знищено російський крейсер «Москва».  «Стугна-П» — переносний протитанковий ракетний комплекс, призначений для ураження рухомих та нерухомих броньованих цілей (Україна). «Байрактар ТБ2» — безпілотний літальний апарат з великою тривалістю польоту (Туреччина). FGM-148 «Джавелін» — переносний протитанковий ракетний комплекс, призначений для ураження бронетехніки, укріплень на землі, а також деяких літальних об'єктів (США).",
-    "itemNumber": 2015,
-    "denomination": "U+3.00",
-    "series": "Зброя Перемоги",
-    "themes": null,
-    "europa": null,
-    "designer": "Харук Олександр та Харук Сергій",
-    "issueYear": 2022,
-    "issueDate": "2022-12-06",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 200000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2015.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2015.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    "sku": 2015,
+    "meta": {
+      "denomination": "U+3.00",
+      "series": "Зброя Перемоги",
+      "designer": "Харук Олександр та Харук Сергій",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-12-06T00:00:00.000Z",
+      "printQuantity": 200000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2015.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2015.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    }
   },
   {
-    "id": "s2016",
+    "_id": "s2016",
     "name": "Зброя Перемоги: БПЛА «Байрактар TB2»",
     "description": "З перших днів повномасштабної війни Збройні Сили України застосовують на полі бою зброю як вітчизняного, так і закордонного виробництва, яка в руках українських воїнів щодня наближає Україну до Перемоги. «Вільха» — реактивна система залпового вогню, призначена для ураження на дальніх відстанях броньованої, легкоброньованої та неброньованої техніки (Україна). «Нептун» — протикорабельний ракетний комплекс наземного базування з протикорабельними крилатими ракетами, призначений для ураження бойових кораблів (Україна). 13.04.2022 р. ракетами «Нептун» ЗСУ було знищено російський крейсер «Москва».  «Стугна-П» — переносний протитанковий ракетний комплекс, призначений для ураження рухомих та нерухомих броньованих цілей (Україна). «Байрактар ТБ2» — безпілотний літальний апарат з великою тривалістю польоту (Туреччина). FGM-148 «Джавелін» — переносний протитанковий ракетний комплекс, призначений для ураження бронетехніки, укріплень на землі, а також деяких літальних об'єктів (США).",
-    "itemNumber": 2016,
-    "denomination": "U+3.00",
-    "series": "Зброя Перемоги",
-    "themes": null,
-    "europa": null,
-    "designer": "Харук Олександр та Харук Сергій",
-    "issueYear": 2022,
-    "issueDate": "2022-12-06",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 200000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2016.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2016.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    "sku": 2016,
+    "meta": {
+      "denomination": "U+3.00",
+      "series": "Зброя Перемоги",
+      "designer": "Харук Олександр та Харук Сергій",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-12-06T00:00:00.000Z",
+      "printQuantity": 200000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2016.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2016.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    }
   },
   {
-    "id": "s2017",
+    "_id": "s2017",
     "name": "Зброя Перемоги: ПТРК FGM-148 «Джавелін»",
     "description": "З перших днів повномасштабної війни Збройні Сили України застосовують на полі бою зброю як вітчизняного, так і закордонного виробництва, яка в руках українських воїнів щодня наближає Україну до Перемоги. «Вільха» — реактивна система залпового вогню, призначена для ураження на дальніх відстанях броньованої, легкоброньованої та неброньованої техніки (Україна). «Нептун» — протикорабельний ракетний комплекс наземного базування з протикорабельними крилатими ракетами, призначений для ураження бойових кораблів (Україна). 13.04.2022 р. ракетами «Нептун» ЗСУ було знищено російський крейсер «Москва».  «Стугна-П» — переносний протитанковий ракетний комплекс, призначений для ураження рухомих та нерухомих броньованих цілей (Україна). «Байрактар ТБ2» — безпілотний літальний апарат з великою тривалістю польоту (Туреччина). FGM-148 «Джавелін» — переносний протитанковий ракетний комплекс, призначений для ураження бронетехніки, укріплень на землі, а також деяких літальних об'єктів (США).",
-    "itemNumber": 2017,
-    "denomination": "U+3.00",
-    "series": "Зброя Перемоги",
-    "themes": null,
-    "europa": null,
-    "designer": "Харук Олександр та Харук Сергій",
-    "issueYear": 2022,
-    "issueDate": "2022-12-06",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 200000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2017.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2017.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    "sku": 2017,
+    "meta": {
+      "denomination": "U+3.00",
+      "series": "Зброя Перемоги",
+      "designer": "Харук Олександр та Харук Сергій",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-12-06T00:00:00.000Z",
+      "printQuantity": 200000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2017.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2017.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    }
   },
   {
-    "id": "s2018",
+    "_id": "s2018",
     "name": "Зброя Перемоги: ПТРК «Стугна-П»",
     "description": "З перших днів повномасштабної війни Збройні Сили України застосовують на полі бою зброю як вітчизняного, так і закордонного виробництва, яка в руках українських воїнів щодня наближає Україну до Перемоги. «Вільха» — реактивна система залпового вогню, призначена для ураження на дальніх відстанях броньованої, легкоброньованої та неброньованої техніки (Україна). «Нептун» — протикорабельний ракетний комплекс наземного базування з протикорабельними крилатими ракетами, призначений для ураження бойових кораблів (Україна). 13.04.2022 р. ракетами «Нептун» ЗСУ було знищено російський крейсер «Москва».  «Стугна-П» — переносний протитанковий ракетний комплекс, призначений для ураження рухомих та нерухомих броньованих цілей (Україна). «Байрактар ТБ2» — безпілотний літальний апарат з великою тривалістю польоту (Туреччина). FGM-148 «Джавелін» — переносний протитанковий ракетний комплекс, призначений для ураження бронетехніки, укріплень на землі, а також деяких літальних об'єктів (США).",
-    "itemNumber": 2018,
-    "denomination": "U+3.00",
-    "series": "Зброя Перемоги",
-    "themes": null,
-    "europa": null,
-    "designer": "Харук Олександр та Харук Сергій",
-    "issueYear": 2022,
-    "issueDate": "2022-12-06",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 200000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2018.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2018.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    "sku": 2018,
+    "meta": {
+      "denomination": "U+3.00",
+      "series": "Зброя Перемоги",
+      "designer": "Харук Олександр та Харук Сергій",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-12-06T00:00:00.000Z",
+      "printQuantity": 200000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2018.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2018.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    }
   },
   {
-    "id": "s2019",
+    "_id": "s2019",
     "name": "Зброя Перемоги: М142 «Хаймарс»",
     "description": "З перших днів повномасштабної війни Збройні Сили України застосовують на полі бою зброю як вітчизняного, так і закордонного виробництва, яка в руках українських воїнів щодня наближає Україну до Перемоги. «Вільха» — реактивна система залпового вогню, призначена для ураження на дальніх відстанях броньованої, легкоброньованої та неброньованої техніки (Україна). «Нептун» — протикорабельний ракетний комплекс наземного базування з протикорабельними крилатими ракетами, призначений для ураження бойових кораблів (Україна). 13.04.2022 р. ракетами «Нептун» ЗСУ було знищено російський крейсер «Москва».  «Стугна-П» — переносний протитанковий ракетний комплекс, призначений для ураження рухомих та нерухомих броньованих цілей (Україна). «Байрактар ТБ2» — безпілотний літальний апарат з великою тривалістю польоту (Туреччина).  FGM-148 «Джавелін» — переносний протитанковий ракетний комплекс, призначений для ураження бронетехніки, укріплень на землі, а також деяких літальних об'єктів (США).",
-    "itemNumber": 2019,
-    "denomination": "U+3.00",
-    "series": "Зброя Перемоги",
-    "themes": null,
-    "europa": null,
-    "designer": "Харук Олександр та Харук Сергій",
-    "issueYear": 2022,
-    "issueDate": "2022-12-06",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 200000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2019.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2019.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    "sku": 2019,
+    "meta": {
+      "denomination": "U+3.00",
+      "series": "Зброя Перемоги",
+      "designer": "Харук Олександр та Харук Сергій",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-12-06T00:00:00.000Z",
+      "printQuantity": 200000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2019.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2019.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2014—2019.jpg"
+    }
   },
   {
-    "id": "s2020",
+    "_id": "s2020",
     "name": "Херсон — це Україна!",
     "description": "Марка «Херсон — це Україна!»",
-    "itemNumber": 2020,
-    "denomination": "U",
-    "series": "Визволення",
-    "themes": null,
-    "europa": null,
-    "designer": "Андрій Сагач",
-    "issueYear": 2022,
-    "issueDate": "2022-12-09",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 900000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2020.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2020.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_12_09_marka_2020_arkush.jpg"
+    "sku": 2020,
+    "meta": {
+      "denomination": "U",
+      "series": "Визволення",
+      "designer": "Андрій Сагач",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-12-09T00:00:00.000Z",
+      "printQuantity": 900000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2020.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2020.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_12_09_marka_2020_arkush.jpg"
+    }
   },
   {
-    "id": "s2021",
+    "_id": "s2021",
     "name": "Переможного Нового року!",
     "description": "Марка «Переможного Нового року!»",
-    "itemNumber": 2021,
-    "denomination": "U",
-    "series": "Святкові",
-    "themes": null,
-    "europa": null,
-    "designer": "Валерія Михайлова",
-    "issueYear": 2022,
-    "issueDate": "2022-12-19",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 6,
-    "printQuantity": 720000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2021.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2021.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_12_19_marka_2021_arkush.jpg"
+    "sku": 2021,
+    "meta": {
+      "denomination": "U",
+      "series": "Святкові",
+      "designer": "Валерія Михайлова",
+      "perforation": true,
+      "stampsPerPane": 6,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-12-19T00:00:00.000Z",
+      "printQuantity": 720000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2021.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2021.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_12_19_marka_2021_arkush.jpg"
+    }
   },
   {
-    "id": "s2022",
+    "_id": "s2022",
     "name": "Щедрик. Carol of the Bells",
     "description": "Марка «Щедрик. Carol of the Bells»",
-    "itemNumber": 2022,
-    "denomination": "W",
-    "series": "Святкові",
-    "themes": null,
-    "europa": null,
-    "designer": "Микола Кочубей",
-    "issueYear": 2022,
-    "issueDate": "2022-12-23",
-    "availability": true,
-    "perforation": true,
-    "stampsPerPane": 4,
-    "printQuantity": 200000,
-    "imageUrlSmall": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2022.jpg?width=400",
-    "imageUrlOriginal": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2022.jpg",
-    "imageUrlPane": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_12_23_marka_2022_arkush.jpg"
+    "sku": 2022,
+    "meta": {
+      "denomination": "W",
+      "series": "Святкові",
+      "designer": "Микола Кочубей",
+      "perforation": true,
+      "stampsPerPane": 4,
+      "themes": null,
+      "europa": false
+    },
+    "release": {
+      "year": 2022,
+      "date": "2022-12-23T00:00:00.000Z",
+      "printQuantity": 200000,
+      "isMassIssue": false,
+      "isAvailable": true
+    },
+    "images": {
+      "original": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2022.jpg",
+      "small": "https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Ukraine_s2022.jpg?width=400",
+      "pane": "https://commons.wikimedia.org/wiki/Special:FilePath/2022_12_23_marka_2022_arkush.jpg"
+    }
   }
 ]

@@ -9,7 +9,7 @@ import InformationSection from "../../features/product/components/ProductSpecDet
 export default function ProductPage() {
 
   const {id} = useParams<{ id: string }>();
-  const product = (productData as Product[]).find((p) => p.id === id);
+  const product = (productData as Product[]).find((p) => p._id === id);
 
   if (!product) {
     return (
