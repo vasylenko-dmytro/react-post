@@ -40,15 +40,14 @@ export default function Header({onSearch}: { onSearch: (term: string) => void })
 
           <div className="md:hidden flex items-center gap-1">
             {/* Mobile Search Toggle */}
-            <button
-              onClick={() => {
-                if (isProductPage) return;
-                setIsSearchOpen(v => !v);
-              }}
-              className="size-9 flex justify-center items-center text-gray-800 dark:text-white hover:bg-gray-100 dark:hover:bg-neutral-800 rounded-full"
-            >
-              <SearchIcon/>
-            </button>
+            {!isProductPage && !isSearchOpen && (
+              <button
+                onClick={toggleSearch}
+                className="size-9 flex justify-center items-center text-gray-800 dark:text-white hover:bg-gray-100 dark:hover:bg-neutral-800 rounded-full"
+              >
+                <SearchIcon/>
+              </button>
+            )}
 
             <button
               type="button"
@@ -76,15 +75,14 @@ export default function Header({onSearch}: { onSearch: (term: string) => void })
               className="relative flex items-center md:ps-2.5 md:ms-1.5 md:before:block md:before:absolute md:before:top-1/2 md:before:-start-px md:before:w-px md:before:h-4 md:before:bg-gray-300 dark:md:before:bg-neutral-700 md:before:-translate-y-1/2">
 
               {/* Desktop Search Toggle Button */}
-              <button
-                onClick={() => {
-                  if (isProductPage) return;
-                  setIsSearchOpen(v => !v);
-                }}
-                className="hidden md:flex p-2 text-gray-800 dark:text-neutral-200 hover:text-gray-500 focus:outline-hidden"
-              >
-                <SearchIcon/>
-              </button>
+              {!isProductPage && !isSearchOpen && (
+                <button
+                  onClick={toggleSearch}
+                  className="hidden md:flex p-2 text-gray-800 dark:text-neutral-200 hover:text-gray-500 focus:outline-hidden"
+                >
+                  <SearchIcon/>
+                </button>
+              )}
 
               {/* Language Dropdown */}
               <div className="hs-dropdown [--strategy:absolute] [--placement:bottom-right] relative inline-flex">
