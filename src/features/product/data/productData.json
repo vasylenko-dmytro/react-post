@@ -15,7 +15,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-01-21T00:00:00.000Z",
+      "date": "2022-01-21",
       "printQuantity": 300000,
       "isMassIssue": false,
       "isAvailable": false
@@ -42,8 +42,8 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-01-21T00:00:00.000Z",
-      "printQuantity": 0,
+      "date": "2022-01-21",
+      "printQuantity": -1,
       "isMassIssue": true,
       "isAvailable": false
     },
@@ -69,7 +69,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-01-23T00:00:00.000Z",
+      "date": "2022-01-23",
       "printQuantity": 130000,
       "isMassIssue": false,
       "isAvailable": false
@@ -96,7 +96,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-02-25T00:00:00.000Z",
+      "date": "2022-02-25",
       "printQuantity": 20000,
       "isMassIssue": false,
       "isAvailable": false
@@ -123,7 +123,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-02-25T00:00:00.000Z",
+      "date": "2022-02-25",
       "printQuantity": 20000,
       "isMassIssue": false,
       "isAvailable": false
@@ -150,7 +150,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-02-25T00:00:00.000Z",
+      "date": "2022-02-25",
       "printQuantity": 20000,
       "isMassIssue": false,
       "isAvailable": false
@@ -177,7 +177,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-02-25T00:00:00.000Z",
+      "date": "2022-02-25",
       "printQuantity": 20000,
       "isMassIssue": false,
       "isAvailable": false
@@ -204,7 +204,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-02-25T00:00:00.000Z",
+      "date": "2022-02-25",
       "printQuantity": 20000,
       "isMassIssue": false,
       "isAvailable": false
@@ -231,7 +231,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-03-14T00:00:00.000Z",
+      "date": "2022-03-14",
       "printQuantity": 130000,
       "isMassIssue": false,
       "isAvailable": false
@@ -258,7 +258,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-04-12T00:00:00.000Z",
+      "date": "2022-04-12",
       "printQuantity": 500000,
       "isMassIssue": false,
       "isAvailable": false
@@ -285,7 +285,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-04-12T00:00:00.000Z",
+      "date": "2022-04-12",
       "printQuantity": 500000,
       "isMassIssue": false,
       "isAvailable": false
@@ -312,7 +312,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-05-23T00:00:00.000Z",
+      "date": "2022-05-23",
       "printQuantity": 3000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -339,7 +339,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-05-23T00:00:00.000Z",
+      "date": "2022-05-23",
       "printQuantity": 2000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -366,7 +366,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-06-28T00:00:00.000Z",
+      "date": "2022-06-28",
       "printQuantity": 3000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -393,7 +393,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-07-28T00:00:00.000Z",
+      "date": "2022-07-28",
       "printQuantity": 3000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -420,7 +420,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-07-28T00:00:00.000Z",
+      "date": "2022-07-28",
       "printQuantity": 2000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -447,7 +447,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-08-24T00:00:00.000Z",
+      "date": "2022-08-24",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -474,7 +474,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-01T00:00:00.000Z",
+      "date": "2022-09-01",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -501,7 +501,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-01T00:00:00.000Z",
+      "date": "2022-09-01",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -528,7 +528,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-01T00:00:00.000Z",
+      "date": "2022-09-01",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -555,7 +555,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-01T00:00:00.000Z",
+      "date": "2022-09-01",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -582,7 +582,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-01T00:00:00.000Z",
+      "date": "2022-09-01",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -609,7 +609,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-01T00:00:00.000Z",
+      "date": "2022-09-01",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -636,7 +636,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-01T00:00:00.000Z",
+      "date": "2022-09-01",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -663,7 +663,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-01T00:00:00.000Z",
+      "date": "2022-09-01",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -690,7 +690,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-22T00:00:00.000Z",
+      "date": "2022-09-22",
       "printQuantity": 500000,
       "isMassIssue": false,
       "isAvailable": true
@@ -717,7 +717,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-22T00:00:00.000Z",
+      "date": "2022-09-22",
       "printQuantity": 500000,
       "isMassIssue": false,
       "isAvailable": true
@@ -744,7 +744,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-27T00:00:00.000Z",
+      "date": "2022-09-27",
       "printQuantity": 20000,
       "isMassIssue": false,
       "isAvailable": true
@@ -771,8 +771,8 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-27T00:00:00.000Z",
-      "printQuantity": 0,
+      "date": "2022-09-27",
+      "printQuantity": -1,
       "isMassIssue": true,
       "isAvailable": false
     },
@@ -788,7 +788,7 @@
     "description": "Стандартна марка «Писанки»: с. Яворівка, Вінницька область",
     "sku": 2004,
     "meta": {
-      "denomination": "М",
+      "denomination": "M",
       "series": "Писанки",
       "designer": "Наталія Андрійченко",
       "perforation": true,
@@ -798,8 +798,8 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-09-27T00:00:00.000Z",
-      "printQuantity": 0,
+      "date": "2022-09-27",
+      "printQuantity": -1,
       "isMassIssue": true,
       "isAvailable": false
     },
@@ -825,7 +825,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-10-14T00:00:00.000Z",
+      "date": "2022-10-14",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -852,7 +852,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-10-14T00:00:00.000Z",
+      "date": "2022-10-14",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -879,7 +879,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-10-14T00:00:00.000Z",
+      "date": "2022-10-14",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -906,7 +906,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-10-14T00:00:00.000Z",
+      "date": "2022-10-14",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -933,7 +933,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-10-14T00:00:00.000Z",
+      "date": "2022-10-14",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -960,7 +960,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-10-14T00:00:00.000Z",
+      "date": "2022-10-14",
       "printQuantity": 1000000,
       "isMassIssue": false,
       "isAvailable": true
@@ -987,7 +987,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-11-04T00:00:00.000Z",
+      "date": "2022-11-04",
       "printQuantity": 2100000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1014,7 +1014,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-11-22T00:00:00.000Z",
+      "date": "2022-11-22",
       "printQuantity": 180000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1041,7 +1041,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-11-22T00:00:00.000Z",
+      "date": "2022-11-22",
       "printQuantity": 180000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1068,7 +1068,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-12-06T00:00:00.000Z",
+      "date": "2022-12-06",
       "printQuantity": 200000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1095,7 +1095,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-12-06T00:00:00.000Z",
+      "date": "2022-12-06",
       "printQuantity": 200000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1122,7 +1122,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-12-06T00:00:00.000Z",
+      "date": "2022-12-06",
       "printQuantity": 200000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1149,7 +1149,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-12-06T00:00:00.000Z",
+      "date": "2022-12-06",
       "printQuantity": 200000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1176,7 +1176,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-12-06T00:00:00.000Z",
+      "date": "2022-12-06",
       "printQuantity": 200000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1203,7 +1203,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-12-06T00:00:00.000Z",
+      "date": "2022-12-06",
       "printQuantity": 200000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1230,7 +1230,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-12-09T00:00:00.000Z",
+      "date": "2022-12-09",
       "printQuantity": 900000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1257,7 +1257,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-12-19T00:00:00.000Z",
+      "date": "2022-12-19",
       "printQuantity": 720000,
       "isMassIssue": false,
       "isAvailable": true
@@ -1284,7 +1284,7 @@
     },
     "release": {
       "year": 2022,
-      "date": "2022-12-23T00:00:00.000Z",
+      "date": "2022-12-23",
       "printQuantity": 200000,
       "isMassIssue": false,
       "isAvailable": true
