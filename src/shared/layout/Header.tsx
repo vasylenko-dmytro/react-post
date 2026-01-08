@@ -67,8 +67,7 @@ export default function Header({onSearch}: { onSearch: (term: string) => void })
               Envelopes
               <sup className="ms-0.5 text-xs bg-blue-700 text-white py-0.5 px-1 rounded-lg">TBD</sup>
             </a>
-            <a className="p-2 text-sm text-gray-800 dark:text-neutral-200 hover:text-gray-500" href="#">Collection
-              <sup className="ms-0.5 text-xs bg-blue-700 text-white py-0.5 px-1 rounded-lg">TBD</sup>
+            <a className="p-2 text-sm text-gray-800 dark:text-neutral-200 hover:text-gray-500" href="/collection">Collection
             </a>
 
             <div

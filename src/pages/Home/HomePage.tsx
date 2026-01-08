@@ -1,8 +1,9 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import {Link} from 'react-router-dom';
 import type {Product} from '../../features/product/types/product';
 import {ProductCard} from '../../features/product';
 import productData from '../../features/product/data/productData.json';
+import NoSearchResults from "../../features/product/components/NoSearchResults";
 
 export default function HomePage({searchTerm}: { searchTerm: string }) {
   const products: Product[] = productData;
@@ -22,17 +23,13 @@ export default function HomePage({searchTerm}: { searchTerm: string }) {
           {filteredProducts.map((product) => (
             <div key={product._id}>
               <Link to={`/stamps/${product._id}`} className="block transition-transform hover:scale-[1.01]">
-                <ProductCard product={product} />
+                <ProductCard product={product}/>
               </Link>
             </div>
           ))}
         </div>
       ) : (
-        <div className="text-center py-20">
-          <p className="text-gray-500 dark:text-neutral-400 text-lg">
-            No stamps match "{searchTerm}"
-          </p>
-        </div>
+        <NoSearchResults searchTerm={searchTerm}/>
       )}
     </div>
   );

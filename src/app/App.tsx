@@ -4,6 +4,7 @@ import {Header, Footer} from '../features/product/index';
 import HomePage from '../pages/Home/HomePage';
 import ProductPage from '../pages/Product/ProductPage';
 import NotFoundPage from '../pages/NotFound/NotFoundPage';
+import CollectionPage from "../pages/Collection/CollectionPage";
 
 export default function App() {
   const [searchTerm, setSearchTerm] = useState("");
@@ -17,6 +18,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<HomePage searchTerm={searchTerm}/>}/>
             <Route path="/stamps/:id" element={<ProductPage/>}/>
+            <Route path="/collection" element={<CollectionPage searchTerm={searchTerm}/>}/>
             <Route path="*" element={<NotFoundPage/>}/>
           </Routes>
         </main>
