@@ -1,8 +1,8 @@
 export interface Product {
-  _id: string;
+  stamp_id: string;
   name: string;
   description: string;
-  sku: number;
+  stampSKU: number;
   meta: {
     denomination: string;
     series: string | null;

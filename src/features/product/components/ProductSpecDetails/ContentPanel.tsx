@@ -34,7 +34,7 @@ export default function ContentPanel({product, activeTab}: { product: Product, a
       {activeTab === 'specs' && (
         <div className="flex flex-col gap-3 w-full animate-in fade-in slide-in-from-bottom-4 duration-500">
           <InfoBlock label="Issue:" value={product.name}/>
-          <InfoBlock label="Item Number:" value={product.sku}/>
+          <InfoBlock label="Item Number:" value={product.stampSKU}/>
           <InfoBlock label="Denomination:" value={product.meta.denomination}/>
 
           <div className="pt-4 pb-1">

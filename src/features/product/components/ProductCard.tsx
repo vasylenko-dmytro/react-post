@@ -55,7 +55,7 @@ export default function ProductGrid({ product }: { product: Product }) {
               </div>
 
               <div className="flex justify-end">
-                <span className="text-black dark:text-white">{product.sku}</span>
+                <span className="text-black dark:text-white">{product.stampSKU}</span>
               </div>
             </div>
           </div>

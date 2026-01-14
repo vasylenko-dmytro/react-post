@@ -25,7 +25,7 @@ export default function ProductInfo({ product }: { product: Product }) {
       <div className="space-y-1 text-sm text-gray-600 dark:text-neutral-400 mb-6">
         <p>
           <span className="font-semibold">SKU: #</span>
-          {product.sku}
+          {product.stampSKU}
         </p>
         <p>
           <span className="font-semibold">Issue Date: </span>

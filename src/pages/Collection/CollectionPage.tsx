@@ -12,7 +12,7 @@ export default function CollectionPage({searchTerm}: { searchTerm: string }) {
     const term = searchTerm.toLowerCase();
     return (
       product.name.toLowerCase().includes(term) ||
-      product.sku.toString().includes(term) ||
+      product.stampSKU.toString().includes(term) ||
       product.release.year.toString().includes(term)
     );
   });
@@ -21,7 +21,7 @@ export default function CollectionPage({searchTerm}: { searchTerm: string }) {
       {filteredProducts.length > 0 ? (
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-2 lg:gap-2">
           {filteredProducts.map((product) => (
-            <div key={product._id}>
+            <div key={product.stamp_id}>
               <Link to={`/collection`}>
                 <StampImageCollectionGallery product={product}/>
               </Link>
